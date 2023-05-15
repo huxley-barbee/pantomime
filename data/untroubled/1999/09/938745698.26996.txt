@@ -1,0 +1,220 @@
+From alsa-user-owner@alsa.alsa-project.org Mon Sep 27 16:27:29 1999
+Return-Path: <alsa-user-owner@alsa.alsa-project.org>
+Delivered-To: bguenter-alsa-user@qcc.sk.ca
+Received: (qmail 18681 invoked from network); 27 Sep 1999 16:27:26 -0000
+Received: from alsa.jcu.cz (HELO alsa.alsa-project.org) (petidomo@160.217.1.49)
+  by hal.qcc.sk.ca with SMTP; 27 Sep 1999 16:27:26 -0000
+Received: (from petidomo@localhost)
+	by alsa.alsa-project.org (8.8.8/8.8.8) id RAA10293;
+	Mon, 27 Sep 1999 17:35:41 +0200
+Received: from gate.suse.cz (root@perex.cb.cesnet.cz [194.212.165.105])
+	by alsa.alsa-project.org (8.8.8/8.8.8) with ESMTP id RAA10280;
+	Mon, 27 Sep 1999 17:35:37 +0200
+Received: from cyberauto.fr (www.cyberauto.fr [195.132.3.63])
+	by gate.suse.cz (8.8.8/8.8.8) with SMTP id RAA27563;
+	Mon, 27 Sep 1999 17:32:31 +0200
+Received: from test ([cyberauto.fr]) by 195.132.3.62 ( IA Mail Server Version: 2.2.1 Build: 2040 ) ) ; 27 Sep 99 16:28:47 UT
+Message-ID: <009301bf08fc$5d381300$3e0384c3@test.cybercable.tm.fr>
+From: "audrey" <audrey@cyberauto.fr>
+To: <pub@cyberauto.fr>
+Subject: [alsa-user] =?iso-8859-1?Q?Votre_campagne_de_publicit=E9_cibl=E9e.?=
+Date: Mon, 27 Sep 1999 17:24:17 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0090_01BF090D.208E8860"
+Reply-To: alsa-user@alsa-project.org
+Sender: alsa-user-owner@alsa.alsa-project.org
+Precedence: list
+Status: RO
+Content-Length: 7354
+Lines: 188
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0090_01BF090D.208E8860
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+Madame, Monsieur,=20
+
+Le site  de l' Agence Cyber Auto est enti=E8rement consacr=E9 =E0 la =
+pr=E9sentation de v=E9hicules d'occasion disponibles chez nos =
+adh=E9rents, tous concessionnaires de marques ou professionnels de =
+l'Automobile.=20
+Cyber Auto offre un large stock de v=E9hicules remis =E0 jour =
+automatiquement et augment=E9 r=E9guli=E8rement.
+
+Gr=E2ce =E0 ce concept novateur, notre site  nous permet de toucher un =
+public pr=E9cis de personnes ponctuellement =E0 la recherche d'un =
+v=E9hicule . Le profil de nos visiteurs laisse notamment appara=EEtre, =
+d'apr=E8s  une r=E9cente =E9tude, qu'il sont demandeurs d' informations =
+concernant :   =20
+
+- l' assurance : 50 % d'entre eux=20
+- le financement : 35 % d'entre eux
+- le prix des v=E9hicules neufs : 38 % d'entre eux
+- les garanties : 42 % d'entre eux
+
+Nous vous offrons donc la possibilit=E9, en devenant annonceur sur notre =
+site, de cibler votre publicit=E9 en fonction de votre profil type =
+d'acheteur.
+
+Pour obtenir plus d' informations concernant cette offre, envoyez nous =
+un mail en cliquant ici . Vous recevrez instantan=E9ment une r=E9ponse =
+vous pr=E9sentant une analyse de l' audience du site  ainsi que tous les =
+tarifs (r=E9ponse automatique).=20
+
+Je reste =E0 votre enti=E8re disposition pour toute information =
+compl=E9mentaire  concernant ce projet.=20
+
+
+A bient=F4t
+
+Audrey
+
+PS: Si vous ne vous occupez pas personnellement de la communication, je =
+vous remercie de transmettre ce courrier  =E0 qui de droit.
+
+
+
+Ce message est conforme aux nouvelles directives europ=E9ennes en =
+mati=E8re=20
+de mailing par courrier =E9lectronique (emailing).
+Nous esp=E9rons ne pas vous avoir importun=E9 avec ce message. =
+Cependant, si vous souhaitez que votre adresse email soit retir=E9e de =
+nos listes, envoyez un courrier =E0 : unsubscribe@cyberauto.fr
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Agence Cyber Auto
+=20
+R=E9seau d'annonce de voitures d'occasion sur le net
+Cr=E9ation et h=E9bergement de sites Internet
+
+
+24 rue de Flore  - F- 72000 LE MANS
+audrey@cyberauto.fr
+Http://www.cyberauto.fr
+=20
+Tel:   +33/(0)2 43 82 12 00
+Fax:   +33/(0)2 43 82 21 33
+
+------=_NextPart_000_0090_01BF090D.208E8860
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD W3 HTML//EN">
+<HTML>
+<HEAD>
+
+<META content=3Dtext/html;charset=3Diso-8859-1 =
+http-equiv=3DContent-Type><!DOCTYPE HTML PUBLIC "-//W3C//DTD W3 =
+HTML//EN"><!DOCTYPE HTML PUBLIC "-//W3C//DTD W3 HTML//EN">
+<META content=3D'"MSHTML 4.72.3110.7"' name=3DGENERATOR>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV><FONT face=3DArial>
+<P>Madame, Monsieur, </P>
+<P>Le site&nbsp; de l' Agence </FONT><A =
+href=3D"http://www.cyberauto.fr/"><FONT=20
+face=3DArial>Cyber Auto</FONT></A><FONT face=3DArial> est =
+enti&egrave;rement=20
+consacr&eacute; &agrave; la pr&eacute;sentation de v&eacute;hicules =
+d'occasion=20
+disponibles chez nos adh&eacute;rents, tous concessionnaires de marques =
+ou=20
+professionnels de l'Automobile. <BR><A =
+href=3D"http://www.cyberauto.fr/"><FONT=20
+face=3DArial>Cyber Auto</FONT></A><FONT face=3DArial> </FONT>offre un =
+large stock de=20
+v&eacute;hicules remis &agrave; jour automatiquement et augment&eacute;=20
+r&eacute;guli&egrave;rement.</P>
+<P>Gr&acirc;ce &agrave; ce concept novateur, notre site&nbsp; nous =
+permet de=20
+toucher un public<STRONG> pr&eacute;cis </STRONG>de personnes=20
+<STRONG>ponctuellement &agrave; la recherche d'un v&eacute;hicule . =
+</STRONG>Le=20
+profil de nos visiteurs laisse notamment appara&icirc;tre, =
+d'apr&egrave;s&nbsp;=20
+une r&eacute;cente &eacute;tude, qu'il sont demandeurs d' informations=20
+concernant :&nbsp;&nbsp;&nbsp; <BR><BR>- l' a<FONT face=3DArial><FONT=20
+color=3D#000000>ssurance : 50 % d'entre eux</FONT></FONT><FONT =
+color=3D#000000>=20
+<BR></FONT><FONT face=3DArial><FONT color=3D#000000>- le financement : =
+35 % d'entre=20
+eux<BR></FONT></FONT><FONT face=3DArial><FONT color=3D#000000>- le prix =
+des=20
+v&eacute;hicules neufs : 38 % d'entre eux<BR></FONT></FONT><FONT=20
+face=3DArial><FONT color=3D#000000>- les garanties : 42 % d'entre=20
+eux</FONT></FONT><FONT color=3D#000000></FONT></P>
+<P>Nous vous offrons donc la possibilit&eacute;, en devenant annonceur =
+sur notre=20
+site, de <STRONG>cibler</STRONG> votre publicit&eacute; en fonction de =
+votre=20
+profil type d'acheteur.</P></FONT><FONT face=3DArial><B>
+<P>Pour obtenir plus d' informations concernant cette offre</B>, envoyez =
+nous un=20
+mail </FONT><A href=3D"mailto:publicite@cyberauto.fr"><FONT =
+face=3DArial>en cliquant=20
+ici</FONT></A><FONT face=3DArial> . Vous recevrez instantan&eacute;ment =
+une=20
+r&eacute;ponse vous pr&eacute;sentant une analyse de l' audience du =
+site&nbsp;=20
+ainsi que tous les tarifs (r&eacute;ponse automatique). </P>
+<P>Je reste &agrave; votre enti&egrave;re disposition pour toute <A=20
+href=3D"mailto:audrey@cyberauto.fr">information =
+compl&eacute;mentaire&nbsp;</A>=20
+concernant ce projet. <BR></FONT></P>
+<P><FONT face=3DArial>A bient&ocirc;t</P>
+<P>Audrey</P>
+<P>PS: Si vous ne vous occupez pas personnellement de la communication, =
+je vous=20
+remercie de transmettre ce courrier&nbsp; &agrave; qui de droit.</P>
+<P>&nbsp;</P>
+<P>Ce message est conforme aux nouvelles directives europ&eacute;ennes =
+en=20
+mati&egrave;re <BR>de mailing par courrier &eacute;lectronique=20
+(emailing).<BR>Nous esp&eacute;rons ne pas vous avoir importun&eacute; =
+avec ce=20
+message. Cependant, si vous souhaitez que votre adresse email soit=20
+retir&eacute;e de nos listes, envoyez un courrier &agrave; : <U><FONT=20
+color=3D#0000ff>unsubscribe</FONT></U><A=20
+href=3D"mailto:unsubscribe@cyberauto.fr">@cyberauto.fr</A></FONT></P></DI=
+V>
+<DIV>&nbsp;</DIV>
+<DIV><FONT color=3D#000000=20
+size=3D2>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<BR><FONT =
+size=3D3>Agence Cyber=20
+Auto</FONT></FONT><FONT size=3D3></FONT></DIV>
+<DIV><FONT color=3D#000000><FONT size=3D3></FONT></FONT><FONT=20
+size=3D3></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000000><FONT size=3D3>R&eacute;seau d'annonce de =
+voitures=20
+d'occasion sur le net<BR>Cr&eacute;ation et h&eacute;bergement de sites=20
+Internet<BR></FONT></FONT></DIV>
+<DIV><FONT color=3D#000000><FONT size=3D3><BR>24 rue de Flore&nbsp; - F- =
+72000 LE=20
+MANS<BR><A =
+href=3D"mailto:audrey@cyberauto.fr">audrey@cyberauto.fr</A><BR><A=20
+href=3D"http://www.cyberauto.fr">Http://www.cyberauto.fr</A></FONT></FONT=
+><FONT=20
+size=3D3></FONT></DIV>
+<DIV><FONT color=3D#000000><FONT size=3D3></FONT></FONT><FONT=20
+size=3D3></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#000000 size=3D2>Tel:&nbsp;&nbsp; +33/(0)2 43 82 12=20
+00<BR>Fax:&nbsp;&nbsp; +33/(0)2 43 82 21 =
+33</FONT></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0090_01BF090D.208E8860--
+
+------
+To unsubscribe from <alsa-user@alsa-project.org> mailing list send message
+'unsubscribe' in the body of message to <alsa-user-request@alsa-project.org>.
+BUG REPORTING SYSTEM: http://www.alsa-project.org/cgi-bin/bugs

@@ -1,0 +1,76 @@
+From barbee@oliveoil.com Tue Jul 30 13:40:09 2013
+Return-Path: <barbee@oliveoil.com>
+Received: from smtp.darkfog.org ([10.20.10.20])
+	 by imap.darkfog.org (Cyrus v2.3.14) with LMTPA;
+	 Tue, 30 Jul 2013 17:40:09 +0000
+X-Sieve: CMU Sieve 2.3
+Received: from rcdn-iport-7.oliveoil.com (rcdn-iport-7.oliveoil.com [173.37.86.78])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(No client certificate requested)
+	by smtp.darkfog.org (Postfix) with ESMTPS id E40EE142052
+	for <barbee@darkfog.org>; Tue, 30 Jul 2013 17:39:56 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+  d=oliveoil.com; i=@oliveoil.com; l=822; q=dns/txt; s=iport;
+  t=1375204781; x=1376414381;
+  h=from:to:subject:date:message-id:mime-version;
+  bh=Wxof+RSJ4c4d+p6GkiEhs0lVR5wJqGadgwueXKKKBI4=;
+  b=lbTxuAgTyGFBq90vk/yaumBBhDIPMXG6/q+gNSlwkTISvrm01LeO6O8e
+   vAHl3wdMzdUs5dbaNNDaK/K9jjMKBWOQEJcSO3tiHSA05AHyhsEPNbnL7
+   LX6+dDcszLRvbKpf/dq5focpAsaKnTS55IQofDRN5tOJlFr9Ved6B5oI2
+   o=;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ai0FAFX191GtJV2c/2dsb2JhbABbgkJEgQWDELsEgR4WdIImAQQZCAFpAQsBAhwFGgM0GgQJBBuICIstjEWOewGRX4Y3iRaDGjZxA6krgxSCKg
+X-IronPort-AV: E=Sophos;i="4.89,778,1367971200"; 
+   d="scan'208,217";a="241370951"
+Received: from rcdn-core-5.oliveoil.com ([173.37.93.156])
+  by rcdn-iport-7.oliveoil.com with ESMTP; 30 Jul 2013 17:19:23 +0000
+Received: from xhc-aln-x07.oliveoil.com (xhc-aln-x07.oliveoil.com [173.36.12.81])
+	by rcdn-core-5.oliveoil.com (8.14.5/8.14.5) with ESMTP id r6UHJNoW004359
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=FAIL)
+	for <barbee@darkfog.org>; Tue, 30 Jul 2013 17:19:23 GMT
+Received: from xmb-aln-x14.oliveoil.com ([169.254.8.68]) by xhc-aln-x07.oliveoil.com
+ ([173.36.12.81]) with mapi id 14.02.0318.004; Tue, 30 Jul 2013 12:19:22 -0500
+From: "John Barbee (barbee)" <barbee@oliveoil.com>
+To: "barbee@darkfog.org" <barbee@darkfog.org>
+Subject: =?iso-2022-jp?B?bWl4ZWQgGyRCOGw4QBsoQg==?=
+Thread-Topic: =?iso-2022-jp?B?bWl4ZWQgGyRCOGw4QBsoQg==?=
+Thread-Index: AQHOjUjv098Hz0YYE0yo43mU2ALXMQ==
+Date: Tue, 30 Jul 2013 17:19:22 +0000
+Message-ID: <49D9ABAA8ACCE9438F0C33BF1529340D20CC44@xmb-aln-x14.oliveoil.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+user-agent: Microsoft-MacOutlook/14.3.6.130613
+x-originating-ip: [10.98.105.149]
+Content-Type: multipart/alternative;
+	boundary="_000_49D9ABAA8ACCE9438F0C33BF1529340D20CC44xmbalnx14oliveoilcom_"
+MIME-Version: 1.0
+Content-Length: 798
+Lines: 24
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20CC44xmbalnx14oliveoilcom_
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+mixed =1B$B8l8@=1B(B
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20CC44xmbalnx14oliveoilcom_
+Content-Type: text/html; charset="iso-2022-jp"
+Content-ID: <1D479206F4A6BE44A08D7619C05771A3@emea.oliveoil.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-2022-=
+jp">
+</head>
+<body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-lin=
+e-break: after-white-space; color: rgb(0, 0, 0); font-size: 14px; font-fami=
+ly: Calibri, sans-serif; ">
+<div>mixed =1B$B8l8@=1B(B</div>
+</body>
+</html>
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20CC44xmbalnx14oliveoilcom_--
+

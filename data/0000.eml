@@ -1,0 +1,25 @@
+Return-Path: <camadedijon@pobox.com>
+Received: from smtp.darkfog.org ([10.20.10.20])
+	 by imap.darkfog.org (Cyrus v2.3.14) with LMTPA;
+	 Tue, 23 Jul 2013 14:27:24 +0000
+X-Sieve: CMU Sieve 2.3
+Received: from darkfog.org (198-135-0-233.oliveoil.com [198.135.0.233])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp.darkfog.org (Postfix) with ESMTPSA id C51D214201F
+	for <barbee@darkfog.org>; Tue, 23 Jul 2013 14:27:23 +0000 (UTC)
+Date: Tue, 23 Jul 2013 10:07:07 -0400
+From: barbee <camadedijon@pobox.com>
+To: barbee <barbee@darkfog.org>
+Subject: Test 1007.
+Message-ID: <20130723140706.GA51964@darkfog.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.21 (2010-09-15)
+Status: RO
+Content-Length: 5
+Lines: 1
+
+test
+

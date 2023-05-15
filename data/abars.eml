@@ -1,0 +1,44 @@
+From: "Etom, Ydder Lopog Unev" <Uenv_Etom@abars.com>
+To: "'bob@test.messagecenter.abars.com'"
+	<bob@test.messagecenter.abars.com>
+Subject: Signature Testing
+Content-Type: multipart/related;
+	boundary="_004_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_004_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_
+Content-Type: multipart/alternative;
+	boundary="_000_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_"
+
+--_000_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Bob
+
+--_000_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+</body>
+</html>
+Bob
+</body>
+</html>
+
+--_000_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_--
+
+--_004_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_
+Content-Type: image/jpeg; name="Picture (Device Independent Bitmap) 1.jpg"
+Content-Description: Picture (Device Independent Bitmap) 1.jpg
+Content-Disposition: inline;
+	filename="Picture (Device Independent Bitmap) 1.jpg";
+	creation-date="Thu, 05 Nov 2015 16:17:43 GMT";
+	modification-date="Thu, 05 Nov 2015 16:17:43 GMT"
+Content-ID: <FD5AB8A3590A7D42820CC8BFB9716266@abars.com>
+Content-Transfer-Encoding: base64
+
+dGVzdAo=
+
+--_004_37A42E28A0884D449AAB89C9DE358EDB3BE890F9bcmsg106abarsco_--

@@ -1,0 +1,63 @@
+/* Javadoc style sheet */
+
+/* Define colors, fonts and other style attributes here to override the defaults */
+
+/* Page background color */
+
+body { font-family:   "Helvetica", "Arial", sans-serif; }
+
+code { color: #777; line-height: 1.286em; font-family: "Consolas", "Lucida Console", "Droid Sans Mono", "Andale Mono", "Monaco", "Lucida Sans Typewriter"; }
+
+pre { color: #555; line-height: 1.0em; font-family: "Consolas", "Lucida Console", "Droid Sans Mono", "Andale Mono", "Monaco", "Lucida Sans Typewriter"; }
+
+
+a { text-decoration: none; font-weight: none; color: #3b0115;  }
+a:hover { font-weight: bold; }
+
+#pantomimeTop {
+    height: 1em;
+    text-align: center;
+    font-size: 2em;
+    margin: 0px;
+    padding: 0px;
+}
+
+#pantomimeTop a {
+    text-decoration: underline;
+    color: #0000ff;
+}
+
+table[border="1"] { border: 1px solid #ddd; }
+table[border="1"] td, table[border="1"] th { border: 1px solid #ddd; }
+table[cellpadding="3"] td { padding: 0.5em; }
+
+font[size="-1"] { font-size: 0.85em; line-height: 1.5em; }
+font[size="-2"] { font-size: 0.8em; }
+font[size="+2"] { font-size: 1.4em; line-height: 1.3em; padding: 0.4em 0; }
+
+/* Headings */
+h1 { font-size: 1.5em; line-height: 1.286em;}
+
+/* Table colors */
+.TableHeadingColor     { background: #C3F7EB; color:#000000; } /* Dark mauve */
+.TableSubHeadingColor  { background: #ddd; color:#444; } /* Light mauve */
+.TableRowColor         { background: #FFFFFF; color:#666; font-size: 0.95em; } /* White */
+.TableRowColor code    { color:#000; } /* White */
+
+/* Font used in left-hand frame lists */
+.FrameItemFont a { color: #51A832; }
+.FrameItemFont a:hover { font-weight: bold }
+/* Java Interfaces */
+.FrameItemFont a i { bold; color: #CC4916; }
+
+.FrameItemFont a:hover i { font-weight: bold }
+
+/* Navigation bar fonts and colors */
+.NavBarCell1    { background-color:#C3F7EB; } /* Light mauve */
+.NavBarCell1Rev { background-color:#16569A; color:#FFFFFF} /* Dark Blue */
+.NavBarFont1    { }
+.NavBarFont1Rev { color:#FFFFFF; }
+
+.NavBarCell2    { background-color:#FFFFFF; color:#000000}
+.NavBarCell3    { background-color:#FFFFFF; color:#000000}
+

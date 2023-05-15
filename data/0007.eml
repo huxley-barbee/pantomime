@@ -1,0 +1,90 @@
+From SRS0=BWqh=RL=indigo.pobox.com=MAILER-DAEMON@bounce2.pobox.com Mon Jul 29 13:28:17 2013
+Return-Path: <SRS0=BWqh=RL=indigo.pobox.com=MAILER-DAEMON@bounce2.pobox.com>
+Received: from smtp.darkfog.org ([10.20.10.20])
+	 by imap.darkfog.org (Cyrus v2.3.14) with LMTPA;
+	 Mon, 29 Jul 2013 17:28:17 +0000
+X-Sieve: CMU Sieve 2.3
+Received: from indigo.pobox.com (indigo.pobox.com [74.115.168.42])
+	by smtp.darkfog.org (Postfix) with ESMTP id DABC4142052
+	for <xinxiang@darkfog.org>; Mon, 29 Jul 2013 17:27:59 +0000 (UTC)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by indigo.pobox.com (Postfix) with ESMTP id 3FB74200683
+	for <xinxiang@darkfog.org>; Mon, 29 Jul 2013 13:07:30 -0400 (EDT)
+Delivered-To: camadedijon@pobox.com
+X-Pobox-Orig-Sender: <MAILER-DAEMON@indigo.pobox.com>
+X-Pobox-Delivery-ID: 553BEAC2-F871-11E2-B620-DEC4DFD61F4C-16879271!indigo.pobox.com
+x-pobox-client-address: 209.151.167.132
+x-pobox-client-name: eidos.os5.com
+Received: from eidos.os5.com (eidos.os5.com [209.151.167.132])
+	by indigo.pobox.com (Postfix) with ESMTP id 25559200AAB
+	for <camadedijon@pobox.com>; Mon, 29 Jul 2013 13:05:41 -0400 (EDT)
+Received: from localhost (localhost)
+	by eidos.os5.com (8.13.8/8.13.8) id r6TH1ENE024082;
+	Mon, 29 Jul 2013 13:01:14 -0400
+Date: Mon, 29 Jul 2013 13:01:14 -0400
+From: Mail Delivery Subsystem <MAILER-DAEMON@eidos.os5.com>
+Message-Id: <201307291701.r6TH1ENE024082@eidos.os5.com>
+To: <camadedijon@pobox.com>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="r6TH1ENE024082.1375117274/eidos.os5.com"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+Status: RO
+Content-Length: 1800
+Lines: 53
+
+This is a MIME-encapsulated message
+
+--r6TH1ENE024082.1375117274/eidos.os5.com
+
+The original message was received at Mon, 29 Jul 2013 13:01:14 -0400
+from cpe-98-14-128-182.nyc.res.rr.com [98.14.128.182]
+
+   ----- The following addresses had permanent fatal errors -----
+<nobody@nowhere.com>
+
+   ----- Transcript of session follows -----
+550 5.1.2 <nobody@nowhere.com>... Host unknown (Name server: nowhere.com: no data known)
+
+--r6TH1ENE024082.1375117274/eidos.os5.com
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; eidos.os5.com
+Received-From-MTA: DNS; cpe-98-14-128-182.nyc.res.rr.com
+Arrival-Date: Mon, 29 Jul 2013 13:01:14 -0400
+
+Original-Recipient: rfc822;nobody@nowhere.com
+Final-Recipient: RFC822; nobody@nowhere.com
+Action: failed
+Status: 5.1.2
+Remote-MTA: DNS; nowhere.com
+Last-Attempt-Date: Mon, 29 Jul 2013 13:01:14 -0400
+
+--r6TH1ENE024082.1375117274/eidos.os5.com
+Content-Type: message/rfc822
+
+Return-Path: <camadedijon@pobox.com>
+Received: from smtp.darkfog.org (cpe-98-14-128-182.nyc.res.rr.com [98.14.128.182])
+	by eidos.os5.com (8.13.8/8.13.8) with ESMTP id r6TH1BNE024079
+	for <nobody@nowhere.com>; Mon, 29 Jul 2013 13:01:14 -0400
+Received: from darkfog.org (198-135-0-233.oliveoil.com [198.135.0.233])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp.darkfog.org (Postfix) with ESMTPSA id B89D2142052
+	for <nobody@nowhere.com>; Mon, 29 Jul 2013 17:25:46 +0000 (UTC)
+Date: Mon, 29 Jul 2013 13:05:12 -0400
+From: barbee <camadedijon@pobox.com>
+To: nobody@nowhere.com
+Subject: test 1305.
+Message-ID: <20130729170512.GC831@darkfog.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.21 (2010-09-15)
+
+test
+
+--r6TH1ENE024082.1375117274/eidos.os5.com--
+
+

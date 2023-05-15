@@ -1,0 +1,360 @@
+From SRS0=nmrr=RH=petflow.com=help@bounce2.pobox.com Thu Jul 25 19:01:04 2013
+Return-Path: <SRS0=nmrr=RH=petflow.com=help@bounce2.pobox.com>
+Received: from smtp.darkfog.org ([10.20.10.20])
+	 by imap.darkfog.org (Cyrus v2.3.14) with LMTPA;
+	 Thu, 25 Jul 2013 23:01:04 +0000
+X-Sieve: CMU Sieve 2.3
+Received: from sienna.pobox.com (sienna.pobox.com [74.115.168.43])
+	by smtp.darkfog.org (Postfix) with ESMTP id 49518142052
+	for <xinxiang@darkfog.org>; Thu, 25 Jul 2013 23:00:56 +0000 (UTC)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by sienna.pobox.com (Postfix) with ESMTP id E7858200790
+	for <xinxiang@darkfog.org>; Thu, 25 Jul 2013 18:40:36 -0400 (EDT)
+Delivered-To: 39bowery@pobox.com
+X-Pobox-Orig-Sender: <help@petflow.com>
+X-Pobox-Delivery-ID: 3912D246-F57B-11E2-A55C-B1E7601AA29E-16879271!sienna.pobox.com
+x-pobox-client-address: 62.13.152.222
+x-pobox-client-name: outmail02542.authsmtp.com
+Received: from outmail02542.authsmtp.com (outmail02542.authsmtp.com [62.13.152.222])
+	by sienna.pobox.com (Postfix) with ESMTP id 96ED7200795
+	for <39bowery@pobox.com>; Thu, 25 Jul 2013 18:40:34 -0400 (EDT)
+Received: from punt8.authsmtp.com (punt8.authsmtp.com [62.13.128.56])
+	by punt10.authsmtp.com (8.14.2/8.14.2/Kp) with ESMTP id r6PMeXFp042339
+	for <39bowery@pobox.com>; Thu, 25 Jul 2013 23:40:33 +0100 (BST)
+Received: from mail-c232.authsmtp.com (mail-c232.authsmtp.com [62.13.128.232])
+	by punt8.authsmtp.com (8.14.2/8.14.2/Kp) with ESMTP id r6PMeX26043466
+	for <39bowery@pobox.com>; Thu, 25 Jul 2013 23:40:33 +0100 (BST)
+Received: from petflow.com (mail.petflow.com [68.169.110.100])
+	(authenticated bits=0)
+	by mail.authsmtp.com (8.14.2/8.14.2/) with ESMTP id r6PMeVpo081490
+	for <39bowery@pobox.com>; Thu, 25 Jul 2013 23:40:32 +0100 (BST)
+Received: by petflow.com (Postfix, from userid 33)
+	id 9F1671EC3819; Thu, 25 Jul 2013 18:40:31 -0400 (EDT)
+Received: from admin.petflow.com (localhost [127.0.0.1])
+	by petflow.com (Postfix) with SMTP id 8B16A1EC3800
+	for <39bowery@pobox.com>; Thu, 25 Jul 2013 18:40:31 -0400 (EDT)
+Message-ID: <1374792031.51f1a95f84523@admin.petflow.com>
+Date: Thu, 25 Jul 2013 18:40:31 -0400
+Subject: Your scheduled order (#1546138) will be shipping soon!
+From: help@petflow.com
+To: 39bowery@pobox.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Server-Quench: 36d11d11-f57b-11e2-b10b-0025903375e2
+X-AuthReport-Spam: If SPAM / abuse - report it at: http://www.authsmtp.com/abuse
+X-AuthRoute: OCd2ZgsUC1ZVQQAC IjsJECFEThpjLRpJ F0RSJwxFLUAYfRxW OEFKaFFUNUtGGBZ7 RjoUWVRVU01zWmlx awBSb0tbalRPWQx0 UUlJXFNSFBpqBB4E GR5QEB8SClAgOCFw bUdmV3AVVEZ+dQh+ RBpVFDkHZHo2bWdN TUFZIgFJIgJKLAJF alJ6XXMOYmICM3gu LgguJXgqNjVSJDlR Tw1FKkgeTFxDXnVl GkxcRG5/XAUaRiE3 ZxYrYkUcHV4JM0M9 eUAmXlRRWwAA
+X-Authentic-SMTP: 61633536333138.1019:706
+X-AuthFastPath: 0 (Was 255)
+X-AuthVirus-Status: No virus detected - but ensure you scan with your own anti-virus system.
+Status: RO
+Content-Length: 7652
+Lines: 306
+
+<!DOCTYPE HTML>
+<html lang=3D"en-US">
+	<head>
+		<meta chars=
+et=3D"UTF-8">
+		<meta content=3D"width=3Ddevice-width, initial-scal=
+e=3D1" name=3D"viewport" />
+		<title>PetFlow</title>
+	</he=
+ad>
+	<body style=3D'margin:0;text-align:center;'>
+				=09
+			=
+	<table class=3D"main-table" align=3D'center' style=3D'width:700px;text-al=
+ign:center;'>
+			<tr class=3D'header'>
+				<td background=3D"htt=
+p://www.petflow.com/images/email/generic/top_bg.gif" style=3D'text-align:l=
+eft;height:90px;'>
+
+										<img style=3D'margin-left:50px;' =
+src=3D'http://www.petflow.com/images/email/generic/newHeaderLogo.png' widt=
+h=3D'205' height=3D'66' alt=3D'PetFlow - Pet Food Delivery!' /=
+>
+
+									=09
+					<div style=3D"float:right; margin-right=
+:45px;">
+						<a href=3D"http://www.petflow.com/user/login"><img styl=
+e=3D'border:0;width:77px;height:25px;' src=3D"http://www.petflow.com/ima=
+ges/email/generic/login.png" alt=3D"login" /></a>
+					</div>
+	=
+			</td>
+			</tr>
+		</table>
+		<table align=3D"center" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D'width:700px;paddi=
+ng:10px;font-family: Arial, sans-serif;font-size:10pt;text-align:left;'>=
+
+
+	<tr>
+		<td>
+			<div>
+				<strong>Hi, John Barb=
+ee!</strong>
+				<br />
+				<br />
+								<div style=3D"ma=
+rgin-bottom:10px">
+					Your next order is almost ready to be shippe=
+d out of our warehouse.  Please read the message below, it's importa=
+nt!
+				</div>
+				<div style=3D'margin-bottom:10px;'>
+					=
+You can make several changes to this order until <strong>07/29/2013</str=
+ong> after which time it can no longer be changed.
+				</div>
+		=
+		<div style=3D'margin-bottom:10px;'>
+					Your order will be shipp=
+ed to you on approximately <strong>08/01/2013</strong>.
+				</div=
+>
+				<div style=3D'margin-bottom:10px;font-weight:bold;'>
+			=
+		You can Edit Products, Cancel, or Reschedule this order through "<a hr=
+ef=3D'https://www.petflow.com/user/199407/programs/1546138/order'>My Order=
+s</a>" at PetFlow.com by using the buttons below.
+				</div>=
+
+
+				<div>
+					<table style=3D'margin:0;border:0;padding:=
+0;margin-left:-3px;'>
+						<tr>
+							<td>
+								<div>Pl=
+ease use the buttons below to make changes to your order:</div>
+					=
+			<div style=3D'margin-bottom:10px;margin-top:10px;border:0;'>
+						=
+			<div>
+										<span>
+											<a href=3D'https://www.pe=
+tflow.com/user/199407/upcoming' alt=3D'Edit Products' style=3D'text-deco=
+ration:none;border:0;'>
+												<img src=3D'http://www.petflow.=
+com/images/email/generic/btns/edit_products.png' />
+											</=
+a>
+										</span>
+										<span style=3D'position:relativ=
+e;top:1px;'>
+											<a href=3D'https://www.petflow.com/user/199407=
+/upcoming' alt=3D'Change Date' style=3D'text-decoration:none;border:0;'>=
+
+												<img src=3D'http://www.petflow.com/images/email/generic/b=
+tns/change_date.png' />
+											</a>
+										</span>=
+
+									</div>
+									<div style=3D'position:relative;top:=
+1px;'>
+										<span>
+											<a href=3D'https://www.petfl=
+ow.com/user/199407/upcoming' alt=3D'Change Frequency' style=3D'text-deco=
+ration:none;border:0;'>
+												<img src=3D'http://www.petflow.=
+com/images/email/generic/btns/change_frequency.png' />
+											</=
+a>
+										</span>
+										<span>
+																						=
+<a href=3D'https://www.petflow.com/orders/cancel/1546138' alt=3D'Skip Sh=
+ipment' style=3D'text-decoration:none;border:0;margin-left:1px;'>
+	=
+											<img src=3D'http://www.petflow.com/images/email/generic/btns/sk=
+ip_shipment.png' />
+											</a>
+										</span>
+			=
+						</div>
+								</div>
+							</td>
+							<td style=3D=
+'vertical-align:middle;position:relative;left:27px;right:2px;'>
+					=
+			<div style=3D'text-align:left;border:1px solid #ddd;padding:5px;font-si=
+ze:14px;'>
+									<div style=3D'margin-left:3px;'><strong>ORDER INFO=
+:</strong></div>
+									<table>
+										<tbody>
+					=
+						<tr>
+												<td style=3D'padding-right:10px;'>PROGRAM NUMBE=
+R:</td>
+												<td><strong>
+													<a href=3D'https:/=
+/www.petflow.com/user/199407/upcoming'>23912897</a>
+												</str=
+ong></td>
+											</tr>
+											<tr>
+												<td s=
+tyle=3D'padding-right:10px;'>ORDER NUMBER:</td>
+												<td><stron=
+g>
+													<a href=3D'https://www.petflow.com/user/199407/program=
+s/1546138/order'>1546138</a>
+												</strong></td>
+									=
+		</tr>
+										</tbody>
+									</table>
+								</div=
+>
+							</td>
+						</tr>
+					</table>
+				</d=
+iv>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+	=
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D'width=
+:100%;padding:10px 0 10px 0;'>
+				<tr style=3D'background-color:#006C=
+96;height:21px;color:#FFFFFF;'>
+					<td style=3D'padding:0 10px 0 =
+10px;width:370px;'>
+						<div>Items</div>
+					</td>
+			=
+		<td style=3D'padding-left:5px;padding-right:5px;'>
+						<div>Size</=
+div>
+					</td>
+					<td style=3D'text-align:center;'>
+					=
+	<div>QTY</div>
+					</td>
+					<td style=3D'text-align:center;=
+'>
+						<div>Price</div>
+					</td>
+					<td style=3D'pad=
+ding-right:5px;text-align:right;'>
+						<div>Total</div>
+					<=
+/td>
+				</tr>
+																										<tr>
+								<td st=
+yle=3D'padding:5px 10px 5px 10px;width:370px;'>
+									<strong>Royal=
+ Canin Veterinary Diet Feline Urinary SO Moderate Calorie Dry Cat Food</=
+strong>
+									<br/>
+								</td>
+								<td style=3D'mi=
+n-width:60px;max-width:60px;padding-left:5px;padding-right:5px;'>
+		=
+							6.6-lb
+								</td>
+								<td style=3D'min-width:40px=
+;text-align:center;'>
+									1
+								</td>
+								<td s=
+tyle=3D'padding:0 10px 0 0;text-align:center;'>
+									$38.9=
+9
+								</td>
+								<td style=3D'padding-right:5px;text-ali=
+gn:right;'>
+									$38.99
+								</td>
+							</tr=
+>
+																		</table>
+		</td>
+	</tr>
+	<tr>=
+
+		<td>
+			<div>
+				<div style=3D'margin-bottom:10px;margin=
+-top:10px;'>
+				We hope you enjoy PetFlow.com just as much as we lo=
+ve having you as a customer!
+				</div>
+
+				<div style=3D'm=
+argin-bottom:10px;'>
+				Sincerely,
+				</div>
+
+				<=
+div style=3D'margin-bottom:10px;'>
+				All of us at PetFlow.co=
+m
+				</div>
+			</div>
+		</td>
+	</tr>
+</div>=
+
+
+		<table class=3D'footer-table' align=3D'center' cellpaddi=
+ng=3D'0' cellspacing=3D'0' style=3D'width:700px;margin-bottom:15px;font-fa=
+mily:Arial;'>
+			<tr class=3D'footer' style=3D'text-align:left;width=
+:100%;'>
+				<td class=3D"info" background=3D"http://www.petflow.com=
+/images/email/generic/foot_bg.gif">
+					<div style=3D'padding:10px=
+;font-size:10pt;'>
+						<strong>
+							Contact Petflow:
+		=
+				</strong>
+						<br/>
+						Phone: 1-888-316-7297, M-F 9AM-8=
+PM Eastern
+						<br/>
+						Our Fanatical Customer Support  - <=
+a style=3D"color:#f19300;" href=3D"http://www.petflow.com/support">www.p=
+etflow.com/support</a>
+						<br/>
+						Website: <a style=3D"=
+color:#f19300;" href=3D"http://www.petflow.com">www.petflow.com</a>
+		=
+				<br/>
+						<br/>
+						<strong>Petflow's Safe Shopping Guar=
+antee:</strong>
+						<br/>
+						We take great pride in offering=
+ a safe and secure online shopping experience. We also respect your priv=
+acy and we're committed to protecting it.
+					</div>
+				</=
+td>
+			</tr>
+			<tr>
+				<td height=3D"29" align=3D"center=
+" background=3D"http://www.petflow.com/images/email/generic/band_bg.gif" c=
+lass=3D"blue_band footer">
+					<div style=3D'color:#FFF;font-size:1=
+0pt;'>&copy;Copyright 2013 <a style=3D'color:#FFF;text-decoration:none;' h=
+ref=3D"http://www.petflow.com">Petflow.com</a>, All Rights Reserved</d=
+iv>
+				</td>
+			</tr>
+		</table>
+			</body>
+</htm=
+l>
+

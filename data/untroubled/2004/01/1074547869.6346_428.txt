@@ -1,0 +1,18 @@
+Return-Path: <unixwow@attbi.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 7767 invoked from network); 19 Jan 2004 14:03:10 -0000
+Received: from unknown (HELO 209.5.178.248) (80.236.10.212)
+  by churchill.factcomp.com with SMTP; 19 Jan 2004 14:03:10 -0000
+Received: from [80.236.10.212] by 44.28.170.124 with HTTP;
+ Tue, 20 Jan 2004 04:58:16 +0100
+From: "Sonja Dow" <backyardstenography@attbi.com>
+To: bait@em.ca
+Subject: 
+Mime-Version: 1.0
+X-Mailer: mPOP Web-Mail 2.19
+X-Originating-IP: [44.28.170.124]
+Date: Mon, 19 Jan 2004 21:56:16 -0600
+Reply-To: "Sonja Dow" <greedylegitimacy@attbi.com>
+Content-Type: multipart/alternative;
+ boundary="=_NextPart_000_000Q_75I45CI6_9022O8969"
+Message-Id: <K[7

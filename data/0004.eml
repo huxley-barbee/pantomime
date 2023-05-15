@@ -1,0 +1,80 @@
+From barbee@oliveoil.com Sun Jul 28 18:17:04 2013
+Return-Path: <barbee@oliveoil.com>
+Received: from smtp.darkfog.org ([10.20.10.20])
+	 by imap.darkfog.org (Cyrus v2.3.14) with LMTPA;
+	 Sun, 28 Jul 2013 22:17:04 +0000
+X-Sieve: CMU Sieve 2.3
+Received: from rcdn-iport-9.oliveoil.com (rcdn-iport-9.oliveoil.com [173.37.86.80])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(No client certificate requested)
+	by smtp.darkfog.org (Postfix) with ESMTPS id 4486914203A
+	for <barbee@darkfog.org>; Sun, 28 Jul 2013 22:16:46 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+  d=oliveoil.com; i=@oliveoil.com; l=985; q=dns/txt; s=iport;
+  t=1375048599; x=1376258199;
+  h=from:to:subject:date:message-id:mime-version;
+  bh=RHA3f1SPeF3Tl0X9gVAGbGdBG0ALK2S0wis7p8ExLkQ=;
+  b=XGOJyd0VXSgKAqVQDU5Q1VdBooeerF5Rvt9gFUgVFnRTGmDtubYv51Oh
+   RpPY7RDDrT/zdvcVZiwGL1z3BElGKaQZWWGCJ41vqA/3KBwDyRWJx6YF0
+   /KoaypL8WYEKH8b9DvgUd6u7QIdxF680tjw7Osgbc9d797xZKhn3j9oQg
+   o=;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhUFAACT9VGtJV2Z/2dsb2JhbABbgkJEgQW9UoEXFnSCJgEEgQsBCwECHFYnBBuICJdGn12GO4kRg05vA6krgxSCKg
+X-IronPort-AV: E=Sophos;i="4.89,765,1367971200"; 
+   d="scan'208,217";a="237569749"
+Received: from rcdn-core-2.oliveoil.com ([173.37.93.153])
+  by rcdn-iport-9.oliveoil.com with ESMTP; 28 Jul 2013 21:56:20 +0000
+Received: from xhc-rcd-x03.oliveoil.com (xhc-rcd-x03.oliveoil.com [173.37.183.77])
+	by rcdn-core-2.oliveoil.com (8.14.5/8.14.5) with ESMTP id r6SLuKQ2003854
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=FAIL)
+	for <barbee@darkfog.org>; Sun, 28 Jul 2013 21:56:20 GMT
+Received: from xmb-aln-x14.oliveoil.com ([169.254.8.68]) by xhc-rcd-x03.oliveoil.com
+ ([173.37.183.77]) with mapi id 14.02.0318.004; Sun, 28 Jul 2013 16:56:20
+ -0500
+From: "John Barbee (barbee)" <barbee@oliveoil.com>
+To: "barbee@darkfog.org" <barbee@darkfog.org>
+Subject: Quoted Printable Test.
+Thread-Topic: Quoted Printable Test.
+Thread-Index: AQHOi91Lskrx44P42EO842ODk+SE/g==
+Date: Sun, 28 Jul 2013 21:56:20 +0000
+Message-ID: <49D9ABAA8ACCE9438F0C33BF1529340D20C691@xmb-aln-x14.oliveoil.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+user-agent: Microsoft-MacOutlook/14.3.6.130613
+x-originating-ip: [10.98.105.149]
+Content-Type: multipart/alternative;
+	boundary="_000_49D9ABAA8ACCE9438F0C33BF1529340D20C691xmbalnx14oliveoilcom_"
+MIME-Version: 1.0
+Status: RO
+Content-Length: 959
+Lines: 26
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20C691xmbalnx14oliveoilcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+If you believe that truth=3Dbeauty, then surely mathematics is the most bea=
+utiful branch of philosophy.
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20C691xmbalnx14oliveoilcom_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <539327DCDA42154BA6A30B061623BE5E@emea.oliveoil.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-lin=
+e-break: after-white-space; color: rgb(0, 0, 0); font-size: 14px; font-fami=
+ly: Calibri, sans-serif; ">
+<div>If you believe that truth=3Dbeauty, then surely mathematics is the mos=
+t beautiful branch of philosophy.</div>
+</body>
+</html>
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20C691xmbalnx14oliveoilcom_--
+

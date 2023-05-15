@@ -1,0 +1,33 @@
+Date: Mon, 7 Oct 2013 14:51:37 -0400 (EDT)
+From: laftest4@a.com
+Sender: laftest4@a.com
+To: portillo@zocalo.info
+Message-ID: <806542204.16.1381171897538.JavaMail.barbee@bxb-jobarbee-8917.cisco.com>
+Subject: LargeMessageTest
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_15_1265768998.1381171897536"
+
+------=_Part_15_1265768998.1381171897536
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_14_595242732.1381171897536"
+
+------=_Part_14_595242732.1381171897536
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi. This is a test.
+------=_Part_14_595242732.1381171897536
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body>Hi. This is a test.</body></html>
+------=_Part_14_595242732.1381171897536--
+
+------=_Part_15_1265768998.1381171897536
+Content-Type: text/plain; charset=us-ascii; name=attachment.txt
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename=attachment.txt
+
+here is a fat attachment
+------=_Part_15_1265768998.1381171897536--

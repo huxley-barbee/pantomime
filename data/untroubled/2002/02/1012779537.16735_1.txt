@@ -1,0 +1,36 @@
+Return-Path: <root@200.34.48.41>
+Spam-Apparently-To: <gail@clevengerassoc.com>
+Received: (qmail 30766 invoked from network); 3 Feb 2002 23:36:25 -0000
+Received: from unknown (HELO 200.34.48.41) (200.34.48.41)
+  by agamemnon.bfsmedia.com with SMTP; 3 Feb 2002 23:36:25 -0000
+Received: (qmail 9919 invoked by uid 0); 11 Aug 2001 16:40:32 -0000
+Date: 11 Aug 2001 16:40:32 -0000
+Message-ID: <20010811164032.9917.qmail@200.34.48.41>
+To: gail@clevengerassoc.com
+From: emanuel@politepromotions.com
+Content-Type: text/html; charset='iso-8859-1'
+Content-Transfer-Encoding: 7bit
+Subject: Happy Valentines Day
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Message</TITLE></HEAD>
+<BODY link=blue style="tab-interval: .5in" vLink=blue><br><br>
+<table width="100%"><tr><td align="center">
+<table width="600">
+<tr>
+<td width="280" valign="top"><a href="http://200.34.48.41/promo/tick.php?id=4484871&cat=10"><SPAN style="FONT-FAMILY: Arial; FONT-SIZE: 12pt">Home Security: please don't settle for less than a nationally recognized company</SPAN></a></td>
+<td width="40">&nbsp;</td>
+<td width="280" valign="top"><a href="http://200.34.48.41/promo/tick.php?id=4484871&cat=11"><SPAN style="FONT-FAMILY: Arial; FONT-SIZE: 12pt">Building and hosting your own website has never been easier.</SPAN></a></td>
+</tr>
+<tr>
+<td colspan="3"><br><br></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://200.34.48.41/promo/tick.php?id=4484871&cat=12"><SPAN style="FONT-FAMILY: Arial; FONT-SIZE: 12pt">Do you smoke?&nbsp;We can send you the best prices on the web.</SPAN></a></td>
+<td>&nbsp;</td>
+<td valign="top"><a href="http://200.34.48.41/promo/tick.php?id=4484871&cat=13"><SPAN style="FONT-FAMILY: Arial; FONT-SIZE: 12pt">On-line gaming &#8211; PLAY NOW, WIN NOW!!!</SPAN></a></td>
+</tr>
+</table>
+<br><br><br><br>
+We appreciate you taking the time to review our valuable offers.  If you would like to discontinue receiving any future promotions from our premium vendors, <a href="http://200.34.48.41/promo/remove.php">click here</a>.
+</BODY></HTML>

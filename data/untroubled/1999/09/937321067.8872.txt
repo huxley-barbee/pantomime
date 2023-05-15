@@ -1,0 +1,106 @@
+From owner-linux-kernel-outgoing@vger.rutgers.edu Tue Sep 14 02:09:51 1999
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bguenter-linux-kernel@qcc.sk.ca
+Received: (qmail 19198 invoked from network); 14 Sep 1999 02:09:51 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by hal.qcc.sk.ca with SMTP; 14 Sep 1999 02:09:51 -0000
+Received: (qmail 13345 invoked from network); 14 Sep 1999 02:09:50 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 14 Sep 1999 02:09:50 -0000
+Received: by vger.rutgers.edu via listexpand id <S155949AbPINCGN>;
+	Mon, 13 Sep 1999 22:06:13 -0400
+Received: by vger.rutgers.edu id <S155618AbPINCFw>;
+	Mon, 13 Sep 1999 22:05:52 -0400
+Received: from [152.149.62.29] ([152.149.62.29]:2866 "HELO mail.dwconst.co.kr")
+	by vger.rutgers.edu with SMTP id <S155905AbPINCCE>;
+	Mon, 13 Sep 1999 22:02:04 -0400
+Received: from 9621953 ([165.133.78.30]) by mail.dwconst.co.kr (Lotus SMTP MTA v4.6.3  (733.2 10-16-1998)) with SMTP id 492567EC.0002932E; Tue, 14 Sep 1999 09:28:07 +0900
+From:   =?ISO-8859-1?Q?=B1=E8=C1=A4=B3=B2<oiljang@oiljang.com>?=
+To:     linux-kernel@vger.rutgers.edu
+Subject: =?ISO-8859-1?Q?linux-kernel=B4=D4?= =?ISO-8859-1?Q?=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4?= - =?ISO-8859-1?Q?=C3=DF=BC=AE=BC=B1=B9=B0?= -
+Date:   Tue, 14 Sep 99 09:35:14 =?ISO-8859-1?Q?=B4=EB=C7=D1=B9=CE=B1=B9?= =?ISO-8859-1?Q?=C7=A5=C1=D8=BD=C3?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=AD_2000_PART_BOUNDARY_19990606
+Message-Id: <19990914020546Z155905-9784+1221@vger.rutgers.edu>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+Status: RO
+Content-Length: 2562
+Lines: 72
+
+This is a multi-part message in MIME format.
+
+--AD_2000_PART_BOUNDARY_19990606
+Content-Type: text/plain
+Content-Transfer-Encoding: 7Bit
+
+안녕하세요. 허락없이 메일을 보낸점 사과드립니다.
+그냥 삭제를 하셔도 됩니다. 추석을 맞아 좋은 선물을 소개 시켜
+드리고자 합니다.
+
+제목 : 추석선물 - 지리산 건강식품
+
+1. 국내최초 품질인증 획득 홍화씨 -뼈, 골다공증
+
+지리산 산청 홍화씨 제품입니다. (http://www.honghwawon.co.kr)
+국립 농산물 검사원으로부터 최초로 품질 인증을 받았습니다.
+골절, 골다공증 예방 등 뼈관련 질병에 특효입니다.
+대량생산으로 가격또한 저렴하며, 품질인증이 말해주듯 품질또한 최고
+입니다. 건강상담도 하고 있으니 많은 방문 바랍니다.
+
+추석을 대비한 홍화꿀 250개 한정판매, 패키지 상품또한 D.C된 가격으로
+판매합니다.
+http://www.honghwawon.co.kr
+Tel : 080-973-8880, 0596-973-8830
+
+2. 당뇨에는 누에가루 ?
+
+지리산 산청의 양잠협동조합입니다. (http://www.nue.co.kr)
+당뇨엔 천연혈당강하제인 누에가루를 생산 판매합니다.
+청정지역인 지리산 산청에서 생산되었습니다.
+홈페이지를 방문하셔서 누에에 대해서 많은 내용도 참고하시기 바랍니다.
+생산자 직거래로 가격 또한 저렴합니다.
+많이 많이 방문해 주세요.
+http://www.nue.co.kr
+Tel : 080-973-5110, 0596-973-8441
+
+3. 간기능에 지리산 인진쑥을 드셔보세요.
+
+지리산 쑥을 다려서 만든 제품입니다. (http://www.injinssuk.co.kr)
+특히, 간 기능 개선에 도움이 되는 인지쑥입니다.
+홈페이지를 방문해 주세요. 만화 동의보감도 있습니다. 참고 하세요.
+생산자 직거래로 가격 또한 저렴합니다.
+홈페이지에서 뵙겠습니다.
+http://www.injinssuk.co.kr
+Tel : 080-973-8880, 0596-973-8830
+
+
+제목 : 추석 특판 - 신비의 "동충하초"
+
+신비의 불로초라 불리우는 "동충하초"
+시중가보다 30% D.C된 가격에 10 Box만 한정판매 합니다. 서둘러 주십시오.
+
+특징 : 동충하초는 버섯 균사체가 동절기에는 곤충의 유충이나 성충의 체내에
+잠복해 있다가, 하절기에는 곤충의 체내에서 버섯으로 피어나는 신비의 영약입니다.
+중국의 비약 : 동충하초는 예로부터 고산지대에서 자연산으로만 채취되는 독특한
+생태특성 때문에 일반화 되지 못하고 비약으로 취급되고 있었으며 최근에 중국의
+'등소평' 주석과 '마군단' 육상 선수팀이 상복하였다 하여 더욱 유명하여졌습니다.
+약리효과 : 항암효과, 간보호 효과, 항피로 효과, 면역력 증강효과, 항 Stress
+효과, 항노쇠 효과
+
+상품명 : 버들농장 동충하초 골드
+내용량 : 380g (낱개 자실체 동충하초 180g, 산약 100g, 대추 200g) / 1Box
+가격   : 220,000 원 (배송비포함) 10 Box 한정 판매
+
+구입문의 : 양상훈 (017-427-5110)
+          입금 : 농협 721110-52-065437  예금주 : 양상훈
+--AD_2000_PART_BOUNDARY_19990606--
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

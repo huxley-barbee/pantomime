@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: bruce-spam@bruce-guenter.dyndns.org
+Received: (qmail 14012 invoked by alias); 12 Dec 2000 13:17:19 -0000
+Delivered-To: spam@bruce-guenter.dyndns.org
+Received: (qmail 14009 invoked from network); 12 Dec 2000 13:17:18 -0000
+Received: from daedalus.bfsmedia.com (198.169.201.8)
+  by 10.2.1.99 with SMTP; 12 Dec 2000 13:17:18 -0000
+Received: (qmail 4683 invoked by uid 500); 12 Dec 2000 13:17:16 -0000
+Delivered-To: em-ca-spam@em.ca
+Received: (qmail 4679 invoked by uid 502); 12 Dec 2000 13:17:16 -0000
+Delivered-To: bfsmedia-goose.kennels@bfsmedia.com
+Received: (qmail 4675 invoked from network); 12 Dec 2000 13:17:15 -0000
+Received: from unknown (HELO smtpnotes.gvc.com.tw) (203.66.204.138)
+  by bfsmedia.sk.ca with SMTP; 12 Dec 2000 13:17:15 -0000
+Received: from 203.66.204.138 ([63.48.102.151])
+          by smtpnotes.gvc.com.tw (Lotus Domino Release 5.0.4)
+          with SMTP id 2000120721061766:404373 ;
+          Thu, 7 Dec 2000 21:06:17 +0800 
+To: ebizz01@operamail.com
+Message-ID: <145872450231.GAA42699@eric.sams.ch>
+Date: Thu, 07 Dec 00 08:06:13 EST
+From: Postmaster@gvc.com.tw
+Subject: =?big5?b?tsewZaWisdE6ILbHsGWm3CBteDEuSUJNLk5FVDsgU01UUCBQcm90b2NvbA==?=
+ Returned a Permanent Error 551 not our customer =?big5?b?tW+lzb/5u34=?=
+X-MIMETrack: Itemize by SMTP Server on SMTPGWS/GVC(Release 5.0.4 |June 8, 2000) at 2000/12/07
+ 09:06:18 PM,
+	Serialize by Router on SMTPGWS/GVC(Release 5.0.4 |June 8, 2000) at 2000/12/12
+ 09:14:55 PM,
+	Serialize complete at 2000/12/12 09:14:55 PM
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="==IFJRGLKFGIR3198UHRUHIHD"
+Content-Length: 2232
+Lines: 74
+
+--==IFJRGLKFGIR3198UHRUHIHD
+Content-Type: text/plain; charset=big5
+Content-Transfer-Encoding: base64
+
+sXqqurBUrqcNCg0KICClRKauOiBBRFZFUlRJU0UgVklBIEJVTEsgRU1BSUwgLSBXZSBzZW5kIGl0
+IGZvciB5b3UuLi4NCg0KqFOms7bHsGWm3DoNCg0KICBjb2NrYXRvb0BpYm0ubmV0DQoNCqZdrLA6
+DQoNCiAgtsewZabcIG14MS5JQk0uTkVUOyBTTVRQIFByb3RvY29sIFJldHVybmVkIGEgUGVybWFu
+ZW50IEVycm9yIDU1MSBub3Qgb3VyIGN1c3RvbWVyILVvpc2/+bt+DQoNCg==
+
+--==IFJRGLKFGIR3198UHRUHIHD
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;smtpnotes.gvc.com.tw
+
+Final-Recipient: rfc822;cockatoo@ibm.net
+Action: failed
+Status: 5.0.0
+Remote-MTA: smtp;mx1.IBM.NET
+Diagnostic-Code: X-Notes; 傳送至 mx1.IBM.NET; SMTP Protocol Returned a Permanent Error 551 not our customer 發生錯誤
+
+--==IFJRGLKFGIR3198UHRUHIHD
+Content-Type: message/rfc822
+
+Received: from 203.66.204.138 ([63.48.102.151])
+          by smtpnotes.gvc.com.tw (Lotus Domino Release 5.0.4)
+          with SMTP id 2000120721061766:404373 ;
+          Thu, 7 Dec 2000 21:06:17 +0800 
+To: builds@eric.sams.ch
+Message-ID: <145872450231.GAA42699@eric.sams.ch>
+Date: Thu, 07 Dec 00 08:06:13 EST
+From: ebizz01@operamail.com
+Subject: ADVERTISE VIA BULK EMAIL - We send it for you...
+X-MIMETrack: Itemize by SMTP Server on SMTPGWS/GVC(Release 5.0.4 |June 8, 2000) at 2000/12/07
+ 09:06:18 PM,
+	Serialize by Router on SMTPGWS/GVC(Release 5.0.4 |June 8, 2000) at 2000/12/12
+ 09:14:55 PM,
+	Serialize complete at 2000/12/12 09:14:55 PM
+MIME-Version: 1.0
+
+The Power of Bulk Email!
+Promote your Business or Opportunity online
+and get results within hours!
+ 
+Bulk Email Works!  We send it for you.
+ 
+Our Prices are as follows:
+ 
+  500,000 =  $349.00
+1,000,000 = $599.00
+2,000,000 = $999.00
+3,000,000 = $1499.00
+4,000,000+  CALL
+ 
+TO ORDER NOW, CALL:  1-646-607-3919
+serious inquiries only, please.
+ 
+ 
+Our lists are general, not targeted.
+
+*no pornography
+*no psychic ads
+*no chain letters
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________
+This message is sent in compliance of the new e-mail bill: SECTION 301. 
+Per Section 301, Paragraph  (a)(2)(C) of S. 1618  Further transmissions to
+you by the sender of this email may be stopped at no cost to you.
+send an email to:  ebizz201@apexmail.com
+
+--==IFJRGLKFGIR3198UHRUHIHD--

@@ -1,0 +1,21 @@
+Return-Path: <Joseph_Ross1@RCN.com>
+Delivered-To: bfsmedia-gn@bfsmedia.com
+Received: (qmail 11033 invoked from network); 10 Dec 2001 21:35:02 -0000
+Received: from unknown (HELO SUN.sw1.com.cn) (202.93.254.35)
+  by agamemnon.bfsmedia.com with SMTP; 10 Dec 2001 21:35:02 -0000
+Received: from QRJATYDI (evrtwa1-ar3-033-059.evrtwa1.dsl.gtei.net [4.33.33.59])
+	by SUN.sw1.com.cn (8.9.2/8.9.2) with SMTP id NAA11783;
+	Sun, 9 Dec 2001 13:11:46 +0800 (CST)
+Message-Id: <200112090511.NAA11783@SUN.sw1.com.cn>
+From: "Gina St. Clair" <Joseph_Ross1@RCN.com>
+Subject: Save  << UP TO 70% OFF >> your life insurance premium
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: MMailer v3.0
+Date: Sat, 8 Dec 2001 16:26:19 +-0700
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=_NextPart_58262680238714731488"
+Content-Length: 0
+Lines: 0
+

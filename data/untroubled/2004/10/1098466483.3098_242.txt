@@ -1,0 +1,38 @@
+Return-Path: <GHMUSFNMZYXX@t-online.de>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 24234 invoked by uid 115); 22 Oct 2004 05:35:49 -0000
+Received: from GHMUSFNMZYXX@t-online.de by churchill by uid 64011 with qmail-scanner-1.22 
+ (clamdscan: 0.75-1. spamassassin: 2.63.  Clear:RC:0(218.150.193.232):. 
+ Processed in 0.717253 secs); 22 Oct 2004 05:35:49 -0000
+Received: from unknown (HELO 209.5.178.248) (218.150.193.232)
+  by churchill.factcomp.com with SMTP; 22 Oct 2004 05:35:48 -0000
+Received: from 225.196.56.207 by 218.150.193.232; Fri, 22 Oct 2004 01:31:21 -0500
+Message-ID: <SKDGWBHYFQDYQCZIMAXM@e-hkma.com>
+From: "Eileen Painter" <GHMUSFNMZYXX@t-online.de>
+Reply-To: "Eileen Painter" <GHMUSFNMZYXX@t-online.de>
+To: bruceg@em.ca
+Subject: Home is where the heart is
+Date: Fri, 22 Oct 2004 01:31:21 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--91757654427272579"
+ 
+----91757654427272579
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7Bit
+ 
+Good Day,
+
+Your Application has been Pre-Approved on Friday, October 22nd 2004.
+   
+Your MRTG process is ready for rates starting at 2.75% Fixed. 
+Please use our secure site to fill-out your application.
+  
+http://xh.xolwed.com/azgme
+
+
+From,
+Eileen Painter
+http://b.xolwed.com
+ 
+----91757654427272579--

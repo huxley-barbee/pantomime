@@ -1,0 +1,94 @@
+From owner-linux-kernel-outgoing@vger.rutgers.edu Thu Nov 04 18:58:33 1999
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-spam@daedalus.bfsmedia.com
+Received: (qmail 32589 invoked from network); 4 Nov 1999 18:58:33 -0000
+Received: from hal.qcc.sk.ca (198.169.27.1)
+  by bfsmedia.sk.ca with SMTP; 4 Nov 1999 18:58:33 -0000
+Received: (qmail 10901 invoked from network); 4 Nov 1999 18:58:32 -0000
+Received: from mikhail.qcc.sk.ca (198.169.27.34)
+  by hal.qcc.sk.ca with SMTP; 4 Nov 1999 18:58:32 -0000
+Received: (qmail 6658 invoked by uid 559); 4 Nov 1999 18:58:29 -0000
+Resent-Message-ID: <19991104185829.6657.qmail@mikhail.qcc.sk.ca>
+Delivered-To: bguenter-linux-kernel@qcc.sk.ca
+Received: (qmail 19318 invoked from network); 4 Nov 1999 01:31:32 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by hal.qcc.sk.ca with SMTP; 4 Nov 1999 01:31:32 -0000
+Received: (qmail 8293 invoked from network); 4 Nov 1999 01:31:30 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 4 Nov 1999 01:31:30 -0000
+Received: by vger.rutgers.edu via listexpand id <S154388AbPKDBaE>;
+	Wed, 3 Nov 1999 20:30:04 -0500
+Received: by vger.rutgers.edu id <S153935AbPKDB3p>;
+	Wed, 3 Nov 1999 20:29:45 -0500
+Received: from [202.102.2.144] ([202.102.2.144]:34029 "EHLO public1.wx.js.cn")
+	by vger.rutgers.edu with ESMTP id <S153933AbPKDB3e>;
+	Wed, 3 Nov 1999 20:29:34 -0500
+Received: from public1.wx.js.cn ([210.77.40.3]) by
+          public1.wx.js.cn (Netscape Messaging Server 4.05) with SMTP id
+          FKNEY804.31X; Thu, 4 Nov 1999 09:03:44 +0800 
+From: service@huali-cn.com,
+  =?ISO-8859-1?Q?@qcc.sk.ca (=BB=AA=C1=A2=B7=FE=CE=F1=CB=D9=B5=DD?=)
+Reply-to: service@huali-cn.com,
+  =?ISO-8859-1?Q?@qcc.sk.ca (=BB=AA=C1=A2=B7=FE=CE=F1=CB=D9=B5=DD?=)
+To: service@huali-cn.com,
+  =?ISO-8859-1?Q?@qcc.sk.ca (=C9=CC=D2=B5=BF=CD=BB=A7?=)
+Subject: =?ISO-8859-1?Q?=BB=AA=C1=A2=B7=FE=CE=F1?=
+X-Mailer: Spring Sun Immensity Perl SendMail Version 1.00
+X-URL:  http://www.liyangman.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="-SpringSun-attach-boundary-941677477---"
+Date:   Thu, 4 Nov 1999 09:03:44 +0800
+Message-ID: <FKNEY804.31X@public1.wx.js.cn>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+Resent-From: bguenter@qcc.sk.ca
+Resent-Date: Thu, 4 Nov 1999 12:58:28 -0600
+Resent-To: bruceg-spam@daedalus.bfsmedia.com
+Status: RO
+Content-Length: 1197
+Lines: 41
+
+---SpringSun-attach-boundary-941677477---
+Content-type: text/plain
+
+欢迎使用  五邑五线
+============================
+http://www.wyol.huali-cn.com
+============================
+   五邑在线是广东省江门五邑侨乡地区的一个商业性
+搜索引擎，收录了江门五邑地区的几百家商业企业网站，
+并有众多的商业合作项目、商业快讯，是您事业成功的
+第一步！
+
+   把握机遇、再创辉煌！
+
+欢迎使用  五邑五线
+============================
+http://www.wyol.huali-cn.com
+============================
+
+
+
+感谢您订阅《华立服务》，您可以点击以下地址订阅或退订《华立服务》
+http://www.shangshang.com/cgi-bin/emailer.pl?do=suborunsub&user=huali
+
+
+
+
+
+
+本邮件采用无限邮件列表发送，但所有言论不代表溧阳人信息网任何观点
+================================================================
+ 欢迎使用溧阳人信息网（溧阳无限网络工作室）开发的网络五虎将系统
+                  http://www.liyangman.com/
+----------------------------------------------------------------
+免费邮件列表、邮件使者、文件传送专家、网站镜像专家、网站上传专家
+
+---SpringSun-attach-boundary-941677477-----
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

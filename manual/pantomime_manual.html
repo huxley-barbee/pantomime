@@ -1,0 +1,1220 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<style>
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+<title>Pantomime Manual</title>
+
+</head>
+<body>
+<p><img src="pansymime.jpg" alt="Pantomime" /></p>
+
+<h1>Pantomime Manual</h1>
+
+<p>Pantomime is a Java library for parsing and manipulating MIME email messages.</p>
+
+<p>Please read <a href="#ReadMeFirst">Read Me First</a> to get started.</p>
+
+<h2>Table of Contents</h2>
+
+<ul>
+<li><a href="#ReadMeFirst">Read Me First</a></li>
+<li><a href="#WhyPantomime">Why Pantomime?</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#gettingHelp">Getting Help</a></li>
+<li><a href="#SimpleCookbook">Simple Cookbook</a>
+
+<ul>
+<li><a href="#plainOrHtml">New plain text or HTML message</a></li>
+<li><a href="#plainAndHtml">New plain text and HTML message</a></li>
+<li><a href="#loadFromFile">Load a message from a file</a></li>
+<li><a href="#loadFromDatabase">Load a message from a database</a></li>
+<li><a href="#loadFromJavaMail">Load a message from a JavaMail MimeMessage</a></li>
+<li><a href="#archive">Archive a message to file</a></li>
+<li><a href="#sendMessage">Send a message via SMTP</a></li>
+</ul>
+</li>
+<li><a href="#mime">MIME For Email</a></li>
+<li><a href="#IntermediateCookbook">Intermediate Cookbook</a>
+
+<ul>
+<li><a href="#plainAndHtmlAndImage">New plain text and HTML message with inline images</a></li>
+<li><a href="#getContent">Get content</a></li>
+<li><a href="#manipulateHeaders">Manipulate headers</a></li>
+<li><a href="#copyMessage">Carbon copy a message</a></li>
+<li><a href="#messageSize">Getting The Size Of Message</a></li>
+<li><a href="#oversizedAttachments">Finding Oversized Attachments</a></li>
+<li><a href="#addAttachment">Add an attachment</a></li>
+</ul>
+</li>
+<li><a href="#advancedCookbook">Advanced Cookbook</a>
+
+<ul>
+<li><a href="#search">Searching for sensitive data in email</a></li>
+<li><a href="#addFooter">Add a footer</a></li>
+<li><a href="#removeAttachment">Remove attachment</a></li>
+<li><a href="#changeAttachment">Change attachment filename</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2><a id="ReadMeFirst">Read Me First</a></h2>
+
+<p>Pantomime is a Java library for parsing and manipulating MIME email messages.</p>
+
+<p>Pantomime is replacement for the MIME-manipulation features of <a href="http://www.oracle.com/technetwork/java/javamail/index.html">JavaMail</a>.</p>
+
+<p>Pantomime is:</p>
+
+<ul>
+<li>robust</li>
+<li>memory efficient</li>
+<li>easier to use.</li>
+</ul>
+
+
+<p>Download Pantomime from <a href="https://bitbucket.org/barbee/pantomime/downloads">https://bitbucket.org/barbee/pantomime/downloads</a>.</p>
+
+<p>Pantomime is licensed under <a href="http://mozilla.org/MPL/2.0/">Mozilla Public License v 2.0</a></p>
+
+<p>Pantomime is written by <a href="http://www.linkedin.com/in/jhbarbee">JH Barbee</a></p>
+
+<p>The API documentation is available at <a href="http://barbee.bitbucket.org/pantomime/javadocs/">http://barbee.bitbucket.org/pantomime/javadocs/</a></p>
+
+<p>This manual serves to instruct you on how to use Pantomime.</p>
+
+<p>You do not need to read the entire manual to get started.</p>
+
+<ul>
+<li>If you are impatient, go straight to the <a href="#SimpleCookbook">Simple Cookbook</a>.</li>
+<li>If you are wondering why you should use Pantomime over JavaMail, please read <a href="#WhyPantomime">Why Pantomime?</a>.</li>
+<li>For installation help, read <a href="#Installation">Installation</a></li>
+<li>Should you need to reference the <a href="#IntermediateCookbook">Intermediate Cookbook</a> or <a href="#AdvancedCookbook">Advanced Cookbook</a>, it is recommended that you review <a href="#mime">MIME For Email</a> first.</li>
+</ul>
+
+
+<h2><a id="WhyPantomime">Why Pantomime?</a></h2>
+
+<p>Next to JavaMail, Pantomime is more robust, memory efficient, and is more convenient.</p>
+
+<h3>Robustness</h3>
+
+<p>JavaMail is adequate for a great majority of eamil. However, it often falls short, especially with real-world messages that veer slightly from RFC compliance.</p>
+
+<p><strong>Example 1</strong></p>
+
+<pre><code>From: ernie@sesame.edu
+To: bert@sesame.edu
+Subject: Dishes
+Content-Type: multipart/alternative
+
+You didn't wash the dishes last night.
+</code></pre>
+
+<p>JavaMail will throw a MessagingException due to a missing start boundary. Your recourse is to reconfigure JavaMail to allow for non-compliance or modify the text to fix the boundary.</p>
+
+<p>Reconfiguring JavaMail would only go so far since JavaMail is rather strict. This wouldn't solve all your problems.</p>
+
+<p>To fix the boundary, you would need to write a lot of code to handle all the edge cases, since there are so many ways to break boundaries.</p>
+
+<p>Pantomime will parse this message without a problem.</p>
+
+<p><strong>Example 2</strong></p>
+
+<pre><code>From: bert@sesame.edu
+To: ernie@sesame.edu
+Subject: Re: Dishes
+Content-Type: text/plain; charset="US-ASCII"
+
+It wasn't my turn.
+</code></pre>
+
+<p>JavaMail will throw an UnsupportedEncodingException since it does not understand US-ASCII as a valid character set.</p>
+
+<p>Pantomime, instead, will make a best effort to parse this somehow.</p>
+
+<p><strong>Example 3</strong></p>
+
+<pre><code>From: ernie@sesame.edu
+To: bigBird@sesame.edu, elmo@@sesame.edu
+Subject: Fwd: Dishes
+Content-Type: text/plain
+
+Big Bird,
+
+  Can you talk to Bert? Our sink is overflowing.
+
+Ernie.
+</code></pre>
+
+<p>JavaMail will fail the entire message with an AddressException because of the extra @ in Elmo's email address.</p>
+
+<p>Pantomime, instead, will make note of the invalid address and allow you to continue. You can use the Pantomime API to check the validity of addresses and decide programmatically what you want to do.</p>
+
+<h3>Memory Efficient</h3>
+
+<p>JavaMail will throw an OutOfMemoryException for large messages. By large messages we mean anything over 20 - 30 MB. The exception is rooted in proprietary <em>com.sun</em> classes that will load data into a byte array in memory, <em>even if you provided the content as an input stream</em>. There is not much you can do here.</p>
+
+<p>Used properly, Pantomime can handle messages of any size as it is inherently stream-based.</p>
+
+<h3>Convenient</h3>
+
+<p>To create a <em>text/plain</em> message with JavaMail, you would need to do this.</p>
+
+<pre><code>Session session = Session.getDefaultInstance(new Properties());
+MimeMessage mime = new MimeMessage(session)
+mime.setFrom(new InternetAddress("ernie@sesame.edu"));
+mime.setSubject("Re: Dishes");
+mime.setText("We need to talk.", "utf-8", "plain")
+</code></pre>
+
+<p>In contrast, Pantomime ships with a <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Pantomime.html">collection of static utility methods</a> that allow you to do this with one call.</p>
+
+<pre><code>Pantomime.plain("ernie@sesame.edu", "Re: Dishes", "We need to talk.", "bert@sesame.edu");
+</code></pre>
+
+<p>Supposing you want to allow rich-text formatting in this email and you would want to create a <em>multipart/alternative</em> message instead. (If you are not sure what <em>multipart/alternative</em> is, please review  <a href="#mime">MIME For Email</a>.)</p>
+
+<p>In JavaMail</p>
+
+<pre><code>Session session = Session.getDefaultInstance(new Properties());
+MimeMessage mime = new MimeMessage(session)
+MimeBodyPart plain = new MimeBodyPart();
+MimeBodyPart html = new MimeBodyPart();
+MimeMultipart alternative = new MimeMultipart();
+
+plain.setText("We need to talk.", "utf-8", "plain")
+html.setText("&lt;b&gt;We need to talk.&lt;/b&gt;", "utf-8", "html")
+
+alternative.addBodyPart(plain)
+alternative.addBodyPart(html)
+alternative.setSubType('alternative')
+
+mime.setContent(alternative)
+mime.setFrom(new InternetAddress("ernie@sesame.edu"));
+mime.setSubject("Re: Dishes");
+</code></pre>
+
+<p>With Pantomime it is still just one method call.</p>
+
+<pre><code>Pantomime.alternative("ernie@sesame.edu", "Re: Dishes", 
+    "We need to talk.", "&lt;b&gt;We need to talk.&lt;/b&gt;", 
+    "bert@sesame.edu");
+</code></pre>
+
+<p>For our last contrast of Pantomime's convenience versus JavaMail, we will illustrate the difference when we add an attachment to the message.</p>
+
+<p>In JavaMail</p>
+
+<pre><code>Session session = Session.getDefaultInstance(new Properties());
+MimeMessage mime = new MimeMessage(session)
+MimeBodyPart plain = new MimeBodyPart();
+MimeBodyPart html = new MimeBodyPart();
+MimeMultipart alternative = new MimeMultipart();
+MimeBodyPart alternativeContainer  = new MimeBodyPart();
+MimeBodyPart attachment   = new MimeBodyPart();
+MimeMultipart mixed = new MimeMultipart();
+FileDataSource dataSource;
+
+plain.setText("We need to talk.", "utf-8", "plain");
+html.setText("&lt;b&gt;We need to talk.&lt;/b&gt;", "utf-8", "html");
+
+alternative.addBodyPart(plain);
+alternative.addBodyPart(html);
+alternative.setSubType('alternative');
+
+alternativeContainer.setContent(alternative);
+
+dataSource = new FileDataSource("expenses.csv");
+
+attachment.setDataHandler(new DataHandler(dataSource));
+attachment.setDisposition(javax.mail.Part.ATTACHMENT)
+
+mixed.addBodyPart(alternative);
+mixed.addBodyPart(attachment);
+
+mime.setContent(mixed)
+mime.setFrom(new InternetAddress("ernie@sesame.edu"));
+mime.setSubject("Re: Dishes");
+</code></pre>
+
+<p>In Pantomime, you need just two lines.</p>
+
+<pre><code>Message message = Pantomime.alternative("ernie@sesame.edu", 
+    "Re: Dishes", "We need to talk.", 
+    "&lt;b&gt;We need to talk.&lt;/b&gt;", "bert@sesame.edu");
+
+message.addAttachment("expenses.csv")
+</code></pre>
+
+<h2><a id="installation">Installation</a></h2>
+
+<p>To install Pantomime, download the latest distribution from <a href="https://bitbucket.org/barbee/pantomime/downloads">https://bitbucket.org/barbee/pantomime/downloads</a> and drop it into your classpath next to the JavaMail jar.</p>
+
+<p>Remember that Pantomime is a replacement <strong>only</strong> for JavaMail's MIME-manipulation features. JavaMail is still required if you want to send the message.</p>
+
+<p>Pantomime also requires <a href="http://www.slf4j.org/">SLF4J</a> for logging. You choose which logging you want.</p>
+
+<h2><a id="gettingHelp">Getting Help</a></h2>
+
+<p>If you find a bug, please file it at <a href="https://bitbucket.org/barbee/pantomime/issues?status=new&amp;status=open">https://bitbucket.org/barbee/pantomime/issues</a>.</p>
+
+<p>If you have questions, please post to <a href="http://stackoverflow.com/">http://stackoverflow.com/</a></p>
+
+<h2><a id="SimpleCookbook">Simple Cookbook</a></h2>
+
+<h3><a id="plainOrHtml">New plain text or HTML message</a></h3>
+
+<p>To create a plain text message, use the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Pantomime.html">Pantomime convenience API</a>.</p>
+
+<pre><code>import org.blackmist.pantomime.Pantomime;
+
+Pantomime.plain("from@address.com", "subject", 
+    "body", "to@address.com");
+</code></pre>
+
+<p>Here is another example where the body comes from a file and there are multiple recipients.</p>
+
+<pre><code>import org.blackmist.pantomime.Pantomime;
+
+String[] toAddresses = {"to@address1.com", "to@address2.com"};
+String[] ccAddresses = {"cc@address1.com", "cc@address2.com"};
+Pantomime.plain("from@address.com", "subject", new File("body.txt"), 
+    toAddresses, ccAddressses);
+</code></pre>
+
+<p>In addition to String and File, the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Pantomime.html">Pantomime convenience API</a> also accepts the body as an InputStream.</p>
+
+<p>To send a rich-text HTML message instead of plain text, simply call html() instead.</p>
+
+<pre><code>import org.blackmist.pantomime.Pantomime;
+
+Pantomime.html("from@address.com", "subject", 
+    "&lt;b&gt;body&lt;b&gt;", "to@address.com");
+</code></pre>
+
+<h3><a id="plainAndHtml">New plain text and HTML message</a></h3>
+
+<p>People like sending email in rich text format with fonts, colors, and
+layout. HTML has become the <em>de facto</em> standard for such. However,
+what if the recipient has an email client that cannot display HTML?
+They need to take your HTML, save it out to a file, and open it in a
+browser. It's a pain.</p>
+
+<p>With <em>multipart/alternative</em>, you send both plain text and HTML. If the recipient has an older email client, they can still read the the text. If you want rich text definitely go with alternative content or
+<a href="#plainAndHtmlAndImage">related content</a> content instead of HTML only.</p>
+
+<p>To send <em>multipart/alternative</em> with Pantomime, use the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Pantomime.html">Pantomime convenience API</a>.</p>
+
+<pre><code>import org.blackmist.pantomime.Pantomime;
+
+Pantomime.alternative("from@address.com", "subject", 
+    "plain body", "&lt;b&gt;html body&lt;b&gt;", "to@address.com");
+</code></pre>
+
+<p>Like Pantomime.plain() and Pantomime.html(), Pantomime.alternative() will accept a String, File, or InputStream for plain and HTML bodies, in any combination.</p>
+
+<h3><a id="loadFromFile">Load a message from a file</a></h3>
+
+<p>Our previous example involves creating new messages. What if you want to load an existing message?</p>
+
+<p>Here is how to load a message from file using Pantomime.</p>
+
+<pre><code>import java.io.File;
+import org.blackmist.pantomime.FileMessageSource;
+import org.blackmist.panotmime.SourcedMessage;
+
+File emailFile = new File("message.eml")
+
+FileMessageSource source = new FileMessageSource(emailFile);
+SourcedMessage message = null;
+
+try {
+    message = source.load();
+} finally {
+    Pantomime.free(message);
+}
+</code></pre>
+
+<p>The <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage class</a> inherits from <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Message.html">Message</a>, so you have access to all the same methods.</p>
+
+<h3><a id="loadFromDatabase">Load a message from a database</a></h3>
+
+<p>Loading a message from the database is similar to loading from a file.</p>
+
+<pre><code>import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.ResultSet;
+import java.sql.Blob;
+
+import org.blackmist.pantomime.BlobMessageSource;
+import org.blackmist.pantomime.SourcedMessage;
+
+Class.forName("com.mysql.jdbc.Driver");
+Connection connection = 
+    DriverManager.getConnection("jdbc:mysql://localhost:3306/pantomime", "username", "password"); 
+
+Statement statement = 
+    connection.prepareStatement('select blob from table where id = primary_key');
+ResultSet resultSet = statement.executeQuery();
+Blob blob = null;
+
+resultSet.next()    
+blob = resultSet.getBlob(1)
+
+BlobMessageSource source = new BlobMessageSource(blob);
+SourcedMessage message = null;
+
+try {
+    message = source.load();
+} finally {
+    Pantomime.free(message);
+}
+</code></pre>
+
+<h3><a id="loadFromJavaMail">Load a message from a JavaMail MimeMessage</a></h3>
+
+<p>To convert from a JavaMail MimeMessage, do the following.</p>
+
+<pre><code>import org.blackmist.pantomime.JavaMailMessageSource;
+import org.blackmist.pantomime.SourcedMessage;
+
+JavaMailMessageSource source = 
+    new JavaMailMessageSource(mime);
+
+SourcedMessage message  = source.load();
+</code></pre>
+
+<h3><a id="archive">Archive a message to file</a></h3>
+
+<p>The <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/MessageSource.html">MessageSource subclasses</a> does more than let you read message from storage, they can also save to storage.</p>
+
+<p>Supposing you created a new message or loaded it from JavaMail and want to archive it to a file.</p>
+
+<p>Do the following:</p>
+
+<pre><code>import org.blackmist.pantomime.FileMessageSource;
+import org.blackmist.panotmime.SourcedMessage;
+
+FileMessageSource source = 
+    new FileMessage("/where/i/want/to/save/this/message.eml");
+SourcedMessage saved = null;
+
+try {
+    /* message is a Message object that you 
+     * got from somewhere. 
+     */
+    saved = message.saveAs(source);
+
+    /* do some stuff */
+
+} finally {
+    Pantomime.free(saved);
+}
+</code></pre>
+
+<p>The <em>saved</em> object is now a new <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Message.html">Message object</a>, backed by a file.</p>
+
+<h3><a id="sendMessage">Send a message via SMTP</a></h3>
+
+<p>Pantomime is strictly a library for parsing and manipulating MIME messages for email. To send this message, you still need to use JavaMail.</p>
+
+<p>Like so:</p>
+
+<pre><code>import javax.mail.mime.MimeMessage;
+import javax.mail.Transport;
+
+MimeMessage mime = message.toJavaMail();
+Transport.sendMessage(mime);
+</code></pre>
+
+<h2><a id="mime">MIME For Email</a></h2>
+
+<p>MIME stands for Multipurpose Internet Mail Extensions.</p>
+
+<p>It is used for both email and web. In this manual, we only concern ourselves with email usage.</p>
+
+<p>MIME is defined in <a href="http://tools.ietf.org/html/rfc2045">RFC 2045</a> <a href="http://tools.ietf.org/html/rfc2046">RFC 2046</a> <a href="http://tools.ietf.org/html/rfc2047">RFC 2047</a> <a href="http://tools.ietf.org/html/rfc2049">RFC 2049</a> <a href="http://tools.ietf.org/html/rfc4288">RFC 4288</a> <a href="http://tools.ietf.org/html/rfc4289">RFC 4289</a>.</p>
+
+<p>MIME messages must be written in ASCII. So if your message contains languages other than English or binary, the data must be encoded in ASCII before it may be sent.</p>
+
+<p>To convert the message into ASCII, you must use one of the following <em>transfer encodings</em>: 7bit, 8bit, <a href="http://en.wikipedia.org/wiki/Quoted-printable">quote-printable</a>, <a href="http://en.wikipedia.org/wiki/Base64">base64</a>, or binary. (Binary tranfer encoding is not popular and not always supported.) Pantomime will take care of the transfer encoding under the hood. You won't need to worry about it. This paragraph is just informational.</p>
+
+<p>MIME has two parts: header and body. The header and body are separate by a blank line.</p>
+
+<p>It looks like this.</p>
+
+<p><img src="mime1.jpg" alt="MimeStructure1" /></p>
+
+<p>Each MIME body is allowed to contain other MIME parts. Here is a MIME part that has a body that contains two other MIME parts. (Note: This is what a <em>multipart/alternative</em> message would look like.)</p>
+
+<p><img src="mime2.jpg" alt="MimeStructure2" /></p>
+
+<p>Pantomime assigns a <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/MimePath.html">MimePath</a> to each MIME part. Like a path that uniquely addresses a file on disk, a MimePath uniquely identifies each MIME part. The top-level MIME message always has the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/MimePath.html">MimePath</a> <strong>0</strong>. Contained MIME parts have <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/MimePath.html">MimePaths</a> that use the <strong>.</strong> to indicate their child status. So here we have a MIME message (MimePath 0) that has a body that contains two other MIME parts. Their MimePaths are <strong>0.0</strong> and <strong>0.1</strong>.</p>
+
+<p>MIME is inherently recursive and has no limit as to how many levels it can go. Below is an example of a MIME part with even deeper nested parts. (Note: This is typically what a <em>multipart/alternative</em> message with an attachment would look like.)</p>
+
+<p><img src="mime3.jpg" alt="MimeStructure3" /></p>
+
+<p>Let dig deeper into MIME and discuss the differences between a multipart and single part. To facilitate this discussion we will switch from nested boxes to a more didactic tree paradigm. Our tree nodes will abstract from headers and bodies and just show the MIME parts.</p>
+
+<p>This is a MIME tree with a single node, i.e. single MIME part with a <em>text/plain</em> content type. This is a <strong>single part</strong>, it has its own plain text content.</p>
+
+<p><img src="tree1.jpg" alt="MimeStructure4" /></p>
+
+<p>Following is a slightly more complex MIME part. Part 0 is a <strong>multipart</strong>. Its content type is <em>multipart/alternative</em>. This MIME part does not contain any content of its own but is simply there to serve as a container for other <strong>single parts</strong> which do contain content.</p>
+
+<p><img src="tree2.jpg" alt="MimeStructure5" /></p>
+
+<p>To complete our illustration we have a three-level MIME tree. Part 0 is a <strong>multipart</strong>. Its content type is <em>multipart/mixed</em>. Part 0.0 is also a <strong>multipart</strong> with the content type <em>multipart/alternative</em>. Parts 0.0.0, 0.0.1 and 0.1 are all <strong>single parts</strong> that contain content. One has plain text. One has HTML. The last is a PDF attachment.</p>
+
+<p><img src="tree3.jpg" alt="MimeStructure6" /></p>
+
+<p>So what are these multipart content type? What is <em>multipart/alternative</em> and <em>multipart/mixed</em>.</p>
+
+<h4>Multipart Content Types</h4>
+
+<ul>
+<li><strong>alternative</strong>: People like sending email in a rich text format with fonts, colors, and layout. HTML has become the <em>de facto</em> standard for such. However, what if the recipient has an email client that cannot display HTML? They can't read your message without jumping through hoops. <em>multipart/alternative</em> allows you to send both plain text and HTML content. The plain text is a backup for those whose clients cannot read HTML.</li>
+<li><strong>related</strong>:  This is just like <em>multipart/alternative</em> with the addition that your <em>text/html</em> MIME part can include images that are delivered with the email rather than externally linked. There are two problems with external images.
+
+<ul>
+<li>Many email client will block loading images over the network.</li>
+<li>If the recipient reads their email offline, then the image wouldn't load.</li>
+</ul>
+</li>
+<li><strong>report</strong>: A bounce message that includes status information and the original message.</li>
+<li><strong>signed</strong>: A digitially signed message. The signature is in a separate MIME part.</li>
+<li><strong>encrypted</strong>: An encrypted message. The encryption control information is in a separate MIME part.</li>
+<li><strong>digest</strong>:  Email content that is a list of other messages. This was more popular back in the day when people wanted their mailing list subscriptions in digest format.</li>
+<li><strong>mixed</strong>: The <em>default</em> multipart subtype for packaging multiple MIME parts together.</li>
+</ul>
+
+
+<p>Clearly multipart and single MIME parts are very different beasts. With single parts you would want to be able to get and set the content. With multiparts, on the other hand, you would want to be able to get the count of subordinate MIME parts, among other operations.</p>
+
+<p>The <a href="http://barbee.bitbucket.org/pantomime/javadocs/">Pantomime API</a> makes a clear distinction between the two. The developer must explicitly understand whether he or she is manipulating a single part or multipart. The heart of Pantomime is the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.html">Part</a> class. It contains methods that apply to any MIME part, multipart or otherwise. Any single part-specific or multipart-specific methods are available in inner classes therein. Access a single part operation through the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.SinglePart.html">asSinglePart()</a> method. Access a multipart operation through the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.Multipart.html">asMultipart()</a> method. Before calling <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.SinglePart.html">asSinglePart()</a> or <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.Multipart.html">asMultipart()</a>, it is the developer's responsibility to verify that a given MIME part is in fact single part or multipart.</p>
+
+<p>For example, if you want to set the content in a single part.</p>
+
+<pre><code>if ( ! part.isMultipart() )
+    part.asSinglePart().set("my new content");
+}
+</code></pre>
+
+<p><em>Note that for a text/plain, text/html, or multipart/alternative message, you would just use the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Pantomime.html">convenience API</a> for convenience.</em></p>
+
+<p>On the other hand, if you want to get the number of sub MIME parts.</p>
+
+<pre><code>if ( part.isMultipart() )
+    part.asMultipart().getSubPartCount();
+}
+</code></pre>
+
+<p>If you are performing advanced MIME manipulation where you need to create subordinate parts or restructure a MIME message, you may need to convert a single part into a multipart or vice versa. To do so, you will need the <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.html#specializeAsSinglePart%28%29">specializeAsSinglePart()</a> and <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.html#specializeAsMultipart%28%29">specializeAsMultipart()</a> methods.</p>
+
+<p>For more information, please refere to the <a href="http://en.wikipedia.org/wiki/MIME">Wikipedia page on MIME</a>.</p>
+
+<h2><a id="IntermediateCookbook">Intermediate Cookbook</a></h2>
+
+<p>Before reading this cookbook, please review <a href="#mime">MIME For Email</a>.</p>
+
+<h3><a id="plainAndHtmlAndImage">New plain text and HTML message with inline images</a></h3>
+
+<p>A plain text and HTML message with inline images requires a <em>multipart/related</em> message.</p>
+
+<p>Do the following:</p>
+
+<pre><code>    import org.blackmist.panotmime.Message;
+    import org.blackmist.pantomime.content.*;
+
+    Message message = new Message();
+    SimpleContent plain = new SimpleContent();
+    SimpleContent html = new SimpleContent();
+    InlineImage image = new InlineImage();
+    RelatedContent related = new RelatedContent();
+
+    image.setFile(new File("my/picture.jpg"));
+    image.setType("image/jpg");
+    image.setContentId("jpeg123");
+
+    plain.set("my plain content");
+    html.set("&lt;b&gt;my html content&lt;/b&gt;"");
+
+    related.setPlain(plain);
+    related.setHtml(html);
+    related.setImages(image);
+
+    message.specializeAsMultipart();
+    message.asMultipart().set(related)
+</code></pre>
+
+<h3><a id="getContent">Get content</a></h3>
+
+<p>For most messages you can get the content like so:</p>
+
+<pre><code>message.getPlainBodyAsString()
+</code></pre>
+
+<p>or</p>
+
+<pre><code>message.getHtmlBodyAsString()
+</code></pre>
+
+<p><a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Message.html#getPlainBodyAsString%28%29">getPlainBodyAsString()</a> will return the first <em>text/plain</em> MIME part with a depth-first search.</p>
+
+<p><a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Message.html#getHtmlBodyAsString%28%29">getHtmlBodyAsString()</a> will return the first <em>text/html</em> MIME part with a depth-first search.</p>
+
+<p>If you want to get the content of all <em>text/plain</em> MIME parts, you would do the following:</p>
+
+<pre><code>import java.util.ArrayList;
+import java.util.Stack;
+
+import org.blackmist.pantomime.Part;
+
+Stack&lt;Part&gt; parts = new Stack&lt;Part&gt;();
+ArrayList&lt;Part&gt; plainParts = new ArrayList&lt;Part&gt;();
+
+parts.push(message);
+
+while ( ! parts.empty() ) {
+    Part part parts.pop();
+
+    if ( part.isMultipart() ) {
+        parts.addAll(part.asMultipart().getSubParts());
+    } else {
+        if ( part.asSinglePart().isPlainText()) ) {
+            plainParts.add(part);
+        }
+    }
+}
+</code></pre>
+
+<h3><a id="manipulateHeaders">Manipulate headers</a></h3>
+
+<p>Manipulating headers is straightforward.</p>
+
+<p>You can use an int or String for the value.</p>
+
+<p>Add a header:</p>
+
+<pre><code>part.addHeader("X-My-Header", "1");
+part.addHeader("X-My-Header", 2);
+</code></pre>
+
+<p>There are now two headers.</p>
+
+<p>Set a header</p>
+
+<pre><code>part.setHeader("X-My-Header", 3);
+</code></pre>
+
+<p>There is now 1 header.</p>
+
+<p>Remove a header:</p>
+
+<pre><code>part.removeHeader("X-My-Header");
+</code></pre>
+
+<p>There are now 0 headers.</p>
+
+<p>If this is a <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage</a>, you'll need to call <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html#save%28%29">save()</a> afterwards.</p>
+
+<pre><code>message.save();
+</code></pre>
+
+<h3><a id="copyMessage">Carbon copy a message</a></h3>
+
+<p>Oftentimes, you may be asked to programmatically blind carbon copy a special archive mailbox before sending out a message.</p>
+
+<p>Simply do this:</p>
+
+<pre><code>message.addBccRecipient("archive@nsa.gov");
+</code></pre>
+
+<p>If this is a <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage</a>, you'll need to call <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html#save%28%29">save()</a> afterwards.</p>
+
+<pre><code>message.save();
+</code></pre>
+
+<h3><a id="messageSize">Getting The Size Of Message</a></h3>
+
+<p>To get the size of a message:</p>
+
+<pre><code>message.getTransferEncodedSize();
+</code></pre>
+
+<p>Just the body:</p>
+
+<pre><code>if ( ! message.isMultipart() )
+    message.asSinglePart().getTransferEncodedBodySize();
+}
+</code></pre>
+
+<h3><a id="oversizedAttachments">Finding Oversized Attachments</a></h3>
+
+<p>Sometimes you may be asked to programmatically determine if a user is sending out oversized attachments. The <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Message.html">Message API</a> has a method to return all attachments in a MIME message, no matter where they are nested.</p>
+
+<pre><code>import java.util.List;
+import org.blackmist.pantomime.Attachment;
+
+List&lt;Attachment&gt; attachments = message.getAllAttachments();
+
+for ( Attachment attachment : attachments ) {
+
+    long size = attachment.asSinglePart().getTransferEncodedBodySize();
+
+    if ( size &gt; (10*1024*1024) ) {
+        return true;
+    }
+
+}
+</code></pre>
+
+<h3><a id="addAttachment">Add attachment</a></h3>
+
+<p>Pantomime provides numerous API calls to add an attachment.</p>
+
+<p>Simply add a file.</p>
+
+<pre><code>message.addAttachment(new File("my_file.txt"))
+</code></pre>
+
+<p>Add a String as a file.</p>
+
+<pre><code>message.addAttachment("my attachment content, "filename.txt");
+</code></pre>
+
+<p>You can also add content by a stream.</p>
+
+<pre><code>message.addAttachment(new InputStreamSource() {
+    public InputStream getInputStream() {
+        return myStream.getInputStream();
+    }
+}, "filename.txt");
+</code></pre>
+
+<p>For all three of these you can also provide a third argument to explicitly set the content type, like <em>application/pdf</em>, <em>image/gif</em>, or <em>application/octet-stream</em>.</p>
+
+<p>If this is a <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage</a>, you'll need to call <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html#save%28%29">save()</a> afterwards.</p>
+
+<pre><code>message.save();
+</code></pre>
+
+<h2><a id="advancedCookbook">Advanced Cookbook</a></h2>
+
+<p>Before reading this cookbook, please review <a href="#mime">MIME For Email</a>.</p>
+
+<h3><a id="search">Search for sensitive data in email</a></h3>
+
+<p>Sometimes companies want to search for sensitive data in email messages. Here is a simple implementation. Assume that there is a method called checkForSocialSecurityNumbers().</p>
+
+<pre><code>import java.util.ArrayList;
+import java.util.Stack;
+
+import org.blackmist.pantomime.Part;
+
+Stack&lt;Part&gt; parts = new Stack&lt;Part&gt;();
+ArrayList&lt;Part&gt; plainParts = new ArrayList&lt;Part&gt;();
+
+parts.push(message);
+
+while ( ! parts.empty() ) {
+    Part part parts.pop();
+
+    if ( part.isMultipart() ) {
+        parts.addAll(part.asMultipart().getSubParts());
+    } else {
+        checkForSocialSecurityNumbers(part.asSinglePart().getBody());
+    }
+}
+</code></pre>
+
+<h3><a id="addFooter">Add a footer</a></h3>
+
+<p>Often companies want to add a disclaimer to the bottom of a message. The challenge here is that a message could be <em>text/plain</em>, <em>text/html</em>, <em>multipart/alternative</em>, <em>multipart/related</em>, or <em>multipart/mixed</em>. With <em>text/plain</em> the job is simple. With <em>text/html</em>, it's slightly more difficult, you'll need to search for the closing body or html tag and insert the footer there. With <em>multipart/alternative</em> and <em>multipart/related</em> you'll need to update both contained subordinate MIME parts. With <em>multipart/mixed</em>, the plain text or HTML parts are buried even further.</p>
+
+<p>Below is a sample implementation:</p>
+
+<pre><code>private static final byte[] FOOTER = "my footer".getBytes();
+
+private void insertFooterInPlain(Part part) {
+
+    ContentType contentType = part.getContentType();
+    String newContent = part.getBodyAsString();
+
+    newContent += "\r\n" + FOOTER;
+
+    part.set(newContent.toString(), contentType.getType(), 
+        contentType.getCharset())
+}   
+
+private void insertFooterInHtml(Part part) {
+
+    ContentType contentType = part.getContentType();
+    String newContent = part.getBodyAsString();
+    int pos = 0;
+
+    pos = newContent.toLowerCase().substring("&lt;/body&gt;");        
+    if ( pos == -1 ) {
+        pos = newContent.toLowerCase().substring("&lt;/html&gt;");
+    }
+
+    if ( pos == -1 ) {
+        newContent += "&lt;p&gt;" + "FOOTER;
+    } else {
+        newContent = newContent.substring(0, pos) + "&lt;p&gt;" + 
+            FOOTER + newContent.substring(pos+1);
+    }
+
+    part.set(newContent, contentType.getType(), 
+        contentType.getCharset())
+}   
+
+public void addFooter(Part part) {
+
+    if ( part.isMultipart() ) {
+
+        boolean found = false;
+
+        for ( Part subpart : part.getSubParts() ) {
+
+            if ( addFooter(subpart) ) {
+                found = true;
+            }
+        }
+
+        return found;
+
+    } else if ( part.asSinglePart().isHtml() ) {
+
+        insertFooterInHtml(message);
+        return true;
+
+    } else if ( part.asSinglePart().isPlainText() ) {
+
+        insertFooterInPlain(message);
+        return true;
+
+    }
+}
+
+publci void processMessage(Message message) {
+    addFooter(message);
+}
+</code></pre>
+
+<p>(Note that the above sample implementation only works with messages where the readable content is small, say less than 20MB. To work with large message, use <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.SinglePart.html#getBody%28%29">getBody()</a> instead of <a href="http://barbee.bitbucket.org/pantomime/javadocs/org/blackmist/pantomime/Part.SinglePart.html#getBodyAsString%28%29">getBodyAsString()</a>)</p>
+
+<p>If this is a <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage</a>, you'll need to call <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html#save%28%29">save()</a> afterwards.</p>
+
+<pre><code>message.save();
+</code></pre>
+
+<h3><a id="removeAttachment">Remove attachment</a></h3>
+
+<pre><code>private boolean shouldDelete(Attachment attachment, String filename) {
+
+    Attachment attachment = (Attachment)child;
+    String name;
+
+    if ( ! attachment.hasFilename() ) {
+        return false;
+    }
+
+    name = attachment.getFilename();
+
+    if ( ! filename.equals(name) ) {
+        return false;
+    }
+
+    return true;
+
+}
+
+private void removeAttachment(Part parent, String filename) {
+
+    int count = message.asMultipart().getSubPartCount();
+
+    for ( int index = 0; index &lt; coount; index++ ) {
+
+        Part part = message.asMultipart().getSubParts()[index];
+
+        if ( part instanceof Attachment ) {
+
+            if ( shouldDelete((Attachment)part, filename) ) {
+
+                parent.removeSubPart(index);
+
+                return;
+
+            }   
+
+        } else if ( part.isMultipart() ) {
+
+            removeAttachment(part, filename);
+
+        }
+    } 
+}
+
+public void removeAttachment(Message message, String filename) {
+
+    if ( ! message.isMultipart() ) {
+        return;
+    }
+
+    removeAttachment(message, filename)
+
+}
+</code></pre>
+
+<p>If this is a <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage</a>, you'll need to call <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html#save%28%29">save()</a> afterwards.</p>
+
+<pre><code>message.save();
+</code></pre>
+
+<h3><a id="changeAttachment">Change attachment name</a></h3>
+
+<p>This will change an attachment filename.</p>
+
+<pre><code>import java.util.List;
+import org.blackmist.pantomime.Attachment;
+import org.blackmist.pantomime.ContentDisposition;
+
+List&lt;Attachment&gt; attachments = message.getAllAttachments();
+
+for ( Attachment attachment : attachments ) {
+
+    String filename;
+    ContentDisposition dispsotion;
+    String headerValue;
+
+    if ( attachment.hasFilename() ) {
+        continue;
+    }
+
+    filename = attachment.getFilename();
+
+    if ( filename.equals("the_filename_i_want_to_change.txt") ) {
+        continue;
+    }
+
+    disposition = attachment.getContentDisposition();
+
+    headerValue = disposition.getValue();
+
+    headerValue = headerValue.replace(filename, 
+        "my_new_filename.txt");
+
+    disposition.setValue(headerValue);
+
+}
+</code></pre>
+
+<p>If this is a <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html">SourcedMessage</a>, you'll need to call <a href="http://barbee.bitbucket.org//pantomime/javadocs/org/blackmist/pantomime/SourcedMessage.html#save%28%29">save()</a> afterwards.</p>
+
+<pre><code>message.save();
+</code></pre>
+</body>
+</html>

@@ -1,0 +1,104 @@
+Return-Path: <root@domain13.altern.com>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 18549 invoked from network); 8 May 2001 22:23:04 -0000
+Received: from domain13.altern.com (212.73.209.208)
+  by em.ca with SMTP; 8 May 2001 22:23:04 -0000
+Received: (qmail 12844 invoked by alias); 8 May 2001 21:49:08 -0000
+Date: 8 May 2001 21:49:08 -0000
+Message-ID: <20010508214908.12843.qmail@domain13.altern.com>
+To: "bruceg@em.ca" <bruceg@em.ca>
+Subject: Free Internet
+X-Mailer: Html Mime Mail Class
+From: "staff03@afreeinternet.com" <staff03@afreeinternet.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary = "=_9c2cf5d9fac82c6bf39d16dd46a39c9c"
+Content-Length: 2362
+
+This is a MIME encoded message.
+Created by html_mime_mail.class.
+See http://www.heyes-computing.net/red.software/ for a copy.
+
+--=_9c2cf5d9fac82c6bf39d16dd46a39c9c
+Content-Type: multipart/related; boundary = "=_b8cbc49abfb987ffc400110848d548bf"
+
+
+--=_b8cbc49abfb987ffc400110848d548bf
+Content-Type: multipart/alternative; boundary = "=_d6403b035da5bcca6c2bbc51fe540a58"
+
+
+--=_d6403b035da5bcca6c2bbc51fe540a58
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+ 
+
+--=_d6403b035da5bcca6c2bbc51fe540a58
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<HTML><BODY BACKGROUNDCOLOR="#">
+<FONT FACE="Verdana, Arial" COLOR="#000C00"></FONT>
+<P><center><img src="cid:d864c97d21976e35a32047359cc2e67e"></center><html>
+<body>
+<br>
+<b>
+Free Internet Access!
+<br><br>
+Actually........YOU get PAID!</b>
+<br><br>
+
+Do you still pay for your internet access?  Every click you make while surfing the web makes someone money. Your presence on the Internet is worth thousands to advertisers. Wouldn t you like to get a piece of that action?
+<br><br>
+For more info.  Send an email at:
+<br><br>
+<b>free_internet06@moncourrier.com</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+If I received your e-mail in error, or
+you are no longer interested, simply click below to be automatically removed
+and you will not be contacted again.
+I do respect and honour remove requests!<br>
+<br>
+
+
+take_me_off_now@hotmail.com
+<br>
+<br>
+Please understand that any effort to disrupt, close or block the REMOVE
+account can only result in difficulties for others wanting to be removed
+from our mailing list.
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr width=70%>
+<br>
+<br>
+</body>
+</html><br><br><br><br><br><center>Mail par le service <a href ="http://mailingmax.com">
+Mailing max la machine à mailer.</a><br>Cliquez et utilisez
+ses services gratuits</center><br><center>Pour vous désabonner automatiquement,
+<a href ="http://mailingmax.com/desabonnement/desabonnement.php3">cliquez ici</a></center></BODY></HTML>
+
+--=_d6403b035da5bcca6c2bbc51fe540a58--
+
+--=_b8cbc49abfb987ffc400110848d548bf
+Content-Type: image/jpg; name = "178.jpg"
+Content-ID: <d864c97d21976e35a32047359cc2e67e>
+Content-Transfer-Encoding: base64
+
+R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+--=_b8cbc49abfb987ffc400110848d548bf--
+
+--=_9c2cf5d9fac82c6bf39d16dd46a39c9c--
+
+
+

@@ -1,0 +1,50 @@
+Received: from abfgbccipsmtp03.adroot.abcgc.net ([172.21.153.8])          by
+ abfgsccipsecure01.abcgc.net (JAMES SMTP Server 2.3.2) with SMTP ID 655     
+     for <Constantastoica@gmail.com>;
+          Tue, 26 Apr 2016 17:26:08 -0400 (EDT)
+Received: from abfgbccexsht03.adroot.abcgc.net ([10.225.237.35])  by
+ abfgbccipmx03abc.adroot.abcgc.net with ESMTP; 26 Apr 2016 17:25:56 -0400
+Received: from abfgsccipapp01.adroot.abcgc.net (172.30.40.29) by
+ abfgbccexsht03.adroot.abcgc.net (10.225.237.35) with Microsoft SMTP Server
+ (TLS) id 8.3.389.2; Tue, 26 Apr 2016 17:25:56 -0400
+Received: from mi-mke-psapp05.mi.micorp.com (HELO mi-mke-psapp05) ([10.200.5.89])  by
+ sessmtpscc.abcgc.net with ESMTP; 26 Apr 2016 17:25:56 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;  d=abc.com; i=@abc.com; q=dns/txt;
+ s=smtpmail;  t=1461705968; x=1493241968;
+  h=message-id:mime-version:from:to:cc:date:subject;
+  bh=jigQ3/ETiTgY3LbT/BC6XrYIbeY+nR9sHowU7JW4Gws=;
+  b=IBd7h5FI9uwn1RUj/GQKi4g1a3s9bFsqA3BSS03oez1cklWNMd5I76TG  
+ 7LjHXjccKJWpxCNKyznvwXF5W1pivx2RKBoqgW4REhty8jApNz411lMhG   WDlfQbkbQsQ90zv;
+ 
+X-Listener: abc
+X-SES: MC
+X-SES: No
+X-IronPort-AV: E=Sophos;i="5.24,538,1454994000";    d="txt'?scan'208";a="57565528"
+X-IronPort-AV: E=Sophos;i="5.24,538,1454994000";    d="txt'?scan'208";a="361101395"
+Message-ID: <7240f1$aobu2h@sessmtpscc.abcgc.net>
+X-LegacySESApp: TRUE
+MIME-Version: 1.0
+From: <BigSafe.Technology@abc.com>
+To: <Dante.stoica@abc.com>
+CC: <Constantastoica@gmail.com>
+Date: Tue, 26 Apr 2016 16:25:03 -0500
+Subject: Daily email report[PROTECT]
+Content-Type: multipart/mixed;
+	boundary="--boundary_0_0cc6d4db-52e7-4300-9fab-76faeb229e02"
+Return-Path: BigSafe.Technology@abc.com
+
+----boundary_0_0cc6d4db-52e7-4300-9fab-76faeb229e02
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+See attached
+
+----boundary_0_0cc6d4db-52e7-4300-9fab-76faeb229e02
+Content-Type: application/octet-stream; name="999999.TXT"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2Npbmcg
+ZWxpdC4=
+
+----boundary_0_0cc6d4db-52e7-4300-9fab-76faeb229e02--

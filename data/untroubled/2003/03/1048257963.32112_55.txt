@@ -1,0 +1,25 @@
+Return-Path: <mike@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 27298 invoked from network); 21 Mar 2003 05:16:07 -0000
+Received: from ip-69-10-102-175.cableaz.com (HELO 209.5.178.248) (69.10.102.175)
+  by churchill.factcomp.com with SMTP; 21 Mar 2003 05:16:07 -0000
+Received: from 13oep.6yg [247.17.247.236] by 209.5.178.248 with ESMTP id LGVVV; Thu, 20 Mar 03 21:51:37 +0400
+Received: from la27.y2ms [16.1.88.21] by 247.17.247.236 with ESMTP id RRVCZHP; Thu, 20 Mar 03 21:45:37 +0400
+Message-ID: <x8-bx5wp36j3z9p5j@c69lp>>
+From: "Carol Frey" <mike@yahoo.com>
+To: <bait@em.ca>
+Subject: prdnciple progrwm
+Date: Thu, 20 Mar 03 21:45:37 GMT
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_DAD7AFBC.F"
+Content-Length: 63
+Lines: 4
+
+This is a multi-part message in MIME format.
+
+--_DAD7AFBC.F--
+

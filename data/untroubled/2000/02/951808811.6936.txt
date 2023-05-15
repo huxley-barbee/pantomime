@@ -1,0 +1,60 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 6308 invoked from network); 29 Feb 2000 06:12:52 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 29 Feb 2000 06:12:52 -0000
+Received: (qmail 23579 invoked from network); 29 Feb 2000 06:12:50 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 29 Feb 2000 06:12:50 -0000
+Received: by vger.rutgers.edu via listexpand id <S154555AbQB2B1U>;
+	Mon, 28 Feb 2000 20:27:20 -0500
+Received: by vger.rutgers.edu id <S155399AbQB2ALt>;
+	Mon, 28 Feb 2000 19:11:49 -0500
+Received: from [210.239.178.33] ([210.239.178.33]:1111 "EHLO po1.chan.ne.jp")
+	by vger.rutgers.edu with ESMTP id <S156110AbQB1XrY>;
+	Mon, 28 Feb 2000 18:47:24 -0500
+Received: from pog.chan.ne.jp (1Cust169.tnt1.sakai.jp.da.uu.net [63.12.241.169])
+	by po1.chan.ne.jp (8.9.3/3.7W/991231) with SMTP id VAA76520;
+	Mon, 28 Feb 2000 21:27:24 +0900 (JST)
+Message-ID: <200002282139.576@ganba.chan.ne.jp>
+Date:   Mon, 28 Feb 2000 21:39:38 +0900
+From: =?ISO-2022-JP?B?GyRCJCIkZiRfGyhC?= <ganba@chan.ne.jp>
+To: ganba@chan.ne.jp
+Subject: 
+        =?ISO-2022-JP?B?GyRCJGgkJiQzJD0hIiQiJGYkXyROJVshPCVgJVohPCU4GyhC?=
+ =?ISO-2022-JP?B?GyRCJFgbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Gen Mail 0.9b
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+はじめまして、あゆみ と言います。
+
+突然のメールで、ごめんなさい。
+
+こんな私がホームページを作っちゃいました。
+まだ、何も無いんだけど・・・。
+でも、こんな私でも"リ○ルート社"のパソコン雑誌「あち○ら」で
+取材をうけたんですよ。
+
+すごいでしょう。
+取材の日は朝からドキドキしてしちゃいました。
+最初はすごく緊張してうまくしゃべれなかったんだけど、
+記者の方がおもしろい人で、すごくたのしく話せました。
+思った以上に大きくとりあげてもらえてとってもハッピーです。
+http://www1.sphere.ne.jp/cube/idol/
+
+どぉー。
+私、ネットアイドルを目指しているんです。
+ホームページはまだ初心者でうまくできないけど頑張りますので応援してね！！
+
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

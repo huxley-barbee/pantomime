@@ -1,0 +1,21 @@
+Return-Path: <info4@dpopd.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 20366 invoked from network); 9 Feb 2007 11:41:19 -0000
+Received: from 058177253099.ctinets.com (HELO SPK33) (58.177.253.99)
+  by churchill.factcomp.com with SMTP; 9 Feb 2007 11:41:19 -0000
+Received: by SPK33 (Postfix, from userid 48)
+	id 6A4C2494630; Fri,  9 Feb 2007 19:42:03 +0800 (HKT)
+To: bait@em.ca
+Subject: =?ISO-2022-JP?B?=?=
+From: <info4@dpopd.com>
+Resent-Sender: info4@dpopd.com
+Message-ID: <20070209194203.18434@dpopd.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Resent-Message-Id: <20070209114203.6A4C2494630@SPK33>
+Resent-Date: Fri,  9 Feb 2007 19:42:03 +0800 (HKT)
+Resent-From: info4@dpopd.com (Apache)
+
+
+

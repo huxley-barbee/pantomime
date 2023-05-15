@@ -1,0 +1,43 @@
+Received: from abfgSCCEXSHT04.adroot.abcgc.net (10.254.94.35) by
+ EXCHBCCWPRHT03.adroot.abcgc.net (10.225.244.181) with Microsoft SMTP Server
+ (TLS) id 8.3.389.2; Tue, 26 Apr 2016 17:25:57 -0400
+Received: from abfgsccipapp01.adroot.abcgc.net (172.30.40.29) by
+ abfgSCCEXSHT04.adroot.abcgc.net (10.254.94.35) with Microsoft SMTP Server
+ (TLS) id 8.3.389.2; Tue, 26 Apr 2016 17:25:56 -0400
+Received: from mi-mke-psapp05.mi.micorp.com (HELO mi-mke-psapp05)
+ ([10.200.5.89])  by sessmtpscc.abcgc.net with ESMTP; 26 Apr 2016 17:25:56
+ -0400
+From: BigSafe Technology <BigSafeTechnology@abc.com>
+To: "Stoica, Dante" <Dante.Stoica@abc.com>
+CC: "Constantastoica@gmail.com" <Constantastoica@gmail.com>
+Date: Tue, 26 Apr 2016 17:25:03 -0400
+Subject: Daily email report[PROTECT]
+Thread-Topic: Daily email report[PROTECT]
+Thread-Index: AdGgAjjKIY8x+YcuT3CZFIFMkBEXUg==
+Message-ID: <7240f1$aobu2h@sessmtpscc.abcgc.net>
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-MS-Exchange-Organization-AuthSource: abfgSCCEXSHT04.adroot.abcgc.net
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ironport-av: E=Sophos;i="5.24,538,1454994000";
+    d="txt'?scan'208";a="361101394"
+Content-Type: multipart/mixed;
+	boundary="_002_7240f1aobu2hsessmtpsccabcgcnet_"
+MIME-Version: 1.0
+
+--_002_7240f1aobu2hsessmtpsccabcgcnet_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+See attached=
+
+--_002_7240f1aobu2hsessmtpsccabcgcnet_
+Content-Type: application/octet-stream
+Content-Description: 999999.TXT
+Content-Disposition: attachment
+Content-Transfer-Encoding: base64
+
+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4=
+
+--_002_7240f1aobu2hsessmtpsccabcgcnet_--

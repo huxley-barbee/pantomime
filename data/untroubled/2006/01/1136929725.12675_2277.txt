@@ -1,0 +1,64 @@
+Return-Path: <20gsterling@ci.santa-maria.ca.us>
+Delivered-To: em-ca-bait-20030203011154@em.ca
+Received: (qmail 6348 invoked from network); 6 Jan 2006 15:24:14 -0000
+Received: from users9.voxnet.ru (193.19.82.9)
+  by churchill.factcomp.com with SMTP; 6 Jan 2006 15:24:14 -0000
+Date: Fri, 6 Jan 2006 15:29:15  -0180
+From: "values values" <20gsterling@ci.santa-maria.ca.us>
+X-Mailer: The Bat! (v3.0.1.33) values 
+Reply-To: "values values" <20gsterling@ci.santa-maria.ca.us>
+X-Priority: 3 (Normal)
+Message-ID: <0039629602.20060106152915@ci.santa-maria.ca.us>
+To: Bait <bait-20030203011154@em.ca>
+Subject: values
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="values"
+
+--values
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+values
+
+
+Good day!
+
+Visit our new online pharmacy store and save upto 85%
+Todays special offers: VIAGRA FOR AS LOW AS $1.62 PER DOSE
+CIALIS (super viagra) FOR AS LOW AS $4.38 PER DOSE
+LEVITRA FOR AS LOW AS $4.44 PER DOSE
+... and much much more special offers today.
+YOU NEED 15 MINUTES TO BE READY FOR ACTION.
+
+- All popular drugs are available (Viagra, Cialis,Levitra, Propecia and much much more )
+- Free shipping worlwide
+- No Doctor Visits
+- No Prescriptions
+- 100% Customer Satisfaction 
+Click here to visit our new pharmacy store.
+Have a nice day.
+values
+--values
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta content="MSHTML 6.00.2800.1106" name="GENERATOR"><style></style></head>
+<body bgColor=yellow>
+Good day!<br><br>
+<center>
+<b><i>Visit our new online pharmacy store and save upto 85%<br><br>
+<font color="#0072FF" size="+1">Todays special offers:</FONT> <a href="values"><font color="#FF0000" size="+3">VIAGRA</FONT> FOR AS LOW AS <font color="#FF0000" size="+3">$1.62</FONT> PER DOSE</a><BR>
+<a href="values"><font color="#FF0000" size="+2">CIALIS (super viagra)</FONT> FOR AS LOW AS <font color="#FF0000" size="+2">$4.38</FONT> PER DOSE</a><BR>
+<a href="values"><font color="#FF0000" size="+1">LEVITRA</FONT> FOR AS LOW AS <font color="#FF0000" size="+1">$4.44</FONT> PER DOSE</a><BR>
+... and much much more special offers today.<br><br>
+<font color="#0072FF" size="+1"><I><B>YOU NEED 15 MINUTES TO BE READY FOR ACTION.</I></B></font>
+<br><table><tr><td><b>
+- All popular drugs are available (Viagra, Cialis,Levitra, Propecia and much much more )<br>
+- Free shipping worlwide<br>
+- No Doctor Visits<br>
+- No Prescriptions<br>
+- 100% Customer Satisfaction <br><br></b></i>
+</td></tr></table><a href="values"><font size="+2">Click here to visit our new pharmacy store.</font></a><br><br>
+</center></b>Have a nice day.</body></html>
+--values--

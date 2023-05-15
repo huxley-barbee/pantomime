@@ -1,0 +1,85 @@
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bruceg-lists-linux-kernel@daedalus.bfsmedia.sk.ca
+Received: (qmail 20228 invoked from network); 2 Apr 2000 21:52:12 -0000
+Received: from linus.qccnet.com (198.169.201.2)
+  by bfsmedia.sk.ca with SMTP; 2 Apr 2000 21:52:12 -0000
+Received: (qmail 26659 invoked from network); 2 Apr 2000 21:52:10 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.qccnet.com with SMTP; 2 Apr 2000 21:52:10 -0000
+Received: by vger.rutgers.edu via listexpand id <S154506AbQDBVoy>;
+	Sun, 2 Apr 2000 17:44:54 -0400
+Received: by vger.rutgers.edu id <S154524AbQDBVoo>;
+	Sun, 2 Apr 2000 17:44:44 -0400
+Received: from mgate06.so-net.ne.jp ([210.139.254.153]:2935 "EHLO
+	mgate06.so-net.ne.jp") by vger.rutgers.edu with ESMTP
+	id <S154506AbQDBVo2>; Sun, 2 Apr 2000 17:44:28 -0400
+Received: from mail.rj8.so-net.ne.jp (mspool04.so-net.ne.jp [210.139.254.183])
+	by mgate06.so-net.ne.jp (8.8.8+3.0Wbeta9/3.6W00032811) with ESMTP id GAA11688
+	for <linux-kernel@vger.rutgers.edu>; Mon, 3 Apr 2000 06:49:38 +0900 (JST)
+Received: from MAIL (pfa6f57.tkyont.ap.so-net.ne.jp [210.250.111.87])
+	by mail.rj8.so-net.ne.jp (8.9.3/3.7W99092111) with SMTP id GAA03280
+	for <linux-kernel@vger.rutgers.edu>; Mon, 3 Apr 2000 06:49:38 +0900 (JST)
+Message-ID: <3454.954712797204@magical.egg.or.jp>
+Date:	Mon, 03 Apr 2000 06:59:57 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJSIlJCVJJWsjMiMwIzAjMRsoQhsoQg==?= <daito@magical.egg.or.jp>
+Reply-To: daito@magical.egg.or.jp
+To: =?iso-2022-jp?B??= <linux-kernel@vger.rutgers.edu>
+Subject: =?iso-2022-jp?B?GyRCIXolIiUkJUklayMyIzAjMCMxJSohPCVXGyhCGyhC?==?iso-2022-jp?B?GyRCJXMhKkw1TkFCTjgzJGIkIiRqIXobKEIbKEI=?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset =ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop:	majordomo@vger.rutgers.edu
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+
+
+==================================================================
+                　　　　　　アイドル２００１オープン！！
+==================================================================
+
+
+■ＲｅａｌＧ２　ライブチャット新企画会員大募集！！
+　本サイトは、月々の定額料金１００００円で、会員になられた皆様には、プ
+ログラムのサービス中であれば、いくらでもＲｅａｌＧ２プレーヤを活用した
+ライブ映像でのチャットが、楽しむかとができます。
+
+■１０分間無料体験サービス！！
+　サイトがオープンする３月２１より　最初の１０分間がお試し体験として無
+料となります。
+１０分間経ちますと自動的に画面が停止しますので、後で料金を請求するとい
+ったトラブルは、ありません。
+
+■会員の皆様限定！見ることのできないプライベートな映像！？
+　ライブチャットプログラムサービス以外の時間帯は、女の子たちのプライベ
+ート映像を、ほとんど無編集の状態で見ることができます。
+随時、収録した新しいものを増やして、ライブラリー化していく予定です。
+
+
+■2000年エッソレースクーンの飯島真由、2000年ブレイク寸前の川井知亜紀
+4月6日から初舞台に挑戦する、西丸優子ら、芸能界でメチャ頑張っている、女
+の子達がぞくぞく登場する、ライブチャットです。
+女の子達のプロモーションビデオは、だれでも見れます、ので、是非のぞきに
+来て下さい。メンバー専用の水着ビデオ制作予定有り。
+
+
+■6月にはオフ会を行ないます。
+アイドル達に直接会いに来て下さい。
+写真撮影会も企画中。（メンバーに限る）
+
+■ネットアイドルを紹介して下さい。
+　芸能界を目指す可愛い女の子を是非紹介して下さい。採用させていただいた
+場合は、
+　特別優遇させていただきます。
+
+
+･･･ＩＤＯＬ２００１･･･
+
+
+http://www.leotv.com/idol2001　
+ＧＡＬｓプロフィールとライブチャットスケジュールをご参照ください
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

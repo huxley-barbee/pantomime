@@ -1,0 +1,61 @@
+Return-Path: <Malcolm@yahoo.com>
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 22781 invoked from network); 11 Jun 2003 19:34:29 -0000
+Received: from unknown (HELO server.pctec.cl) (200.27.181.179)
+  by churchill.factcomp.com with SMTP; 11 Jun 2003 19:34:29 -0000
+Received: from Conner (211.158.41.226) by server.pctec.cl with SMTP; Wed, 11 Jun 2003 15:29:46 -0400
+Reply-To: "Todd Minkin"<Malcolm@yahoo.com>
+From: "Todd Minkin"<Malcolm@yahoo.com>
+To: bait@em.ca
+Subject: =?ISO-8859-3?B?YmFpdCxIR0gtIFJldmVyc2UgQWdlaW5nIGFuZCBMb3NlIFdpZWdodCEg?=
+Date: Wed, 11 Jun 2003 19:29:18 GMT
+Mime-Version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+Content-Type: multipart/mixed; boundary=6F68929E9C4211D7A2D200A04B061B7B
+Content-Length: 2230
+Lines: 44
+
+This is a multipart message in MIME format.
+
+--6F68929E9C4211D7A2D200A04B061B7B
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_0612030329"
+
+------=_NextPart_0612030329
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjx0aXRsZT48L3RpdGxlPg0KPG1ldGEgaHR0cC1lcXVpdj1Db250ZW50
+LVR5cGUgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PWdiMjMxMiI+DQo8L2hlYWQ+DQo8Ym9k
+eSBiZ2NvbG9yPSNGRkZGRkYgdGV4dD0jMDAwMDAwPg0KPHA+U3VwcG9zZSB3ZSB0ZWxsIHlvdSB0
+aGF0IHlvdSBjb3VsZCByZWFsbHkgbG9zZSB1cCB0byA4MiUgb2YgeW91ciB1bndhbnRlZCBib2R5
+IA0KZmF0IGFuZCBrZWVwIGl0IG9mZiBpbiBqdXN0IGEgZmV3IG1vbnRocywgd291bGQgeW91IGJl
+IGludGVyZXN0ZWQ/IFdlIGNlcnRhaW5seSANCmhvcGUgc28hPGJyPg0KSGF2ZSB5b3UgdHJpZWQg
+anVzdCBhYm91dCBldmVyeSBkaWV0IG91dCB0aGVyZS1idXQgbm90aGluZyBzZWVtcyB0byB3b3Jr
+PyEgVGhlbiANCmRvbid0IG1pc3MgdGhpcyBpbXBvcnRhbnQgbWVzc2FnZSE8YnI+DQpXZSBpbnZp
+dGUgeW91IHRvIGV4cGVyaWVuY2UgdGhlIG1vc3QgYWR2YW5jZWQgd2VpZ2h0IExvc3MgcHJvZHVj
+dCBhdmFpbGFibGUgDQooaGdoIG9yYWwgc3ByYXkpIHdlIGd1YXJhbnRlZSBmb3IgeW91IHRvIGxv
+c2Ugd2VpZ2h0IHF1aWNrbHksIHNhZmVseSBhbmQga2VlcCANCml0IG9mZiBmb3IgZ29vZCBmb3Jl
+dmVyITxicj4NCkFzIHNlZW4gb24gTkJDLCBDQlMsIGFuZCBDTk4sIGFuZCBldmVuIE9wcmFoISBI
+Z2ggYWN0dWFsbHkgaGVscHMgdG8gcmV2ZXJzZSANCmFnaW5nIHdoaWxlIGJ1cm5pbmcgZmF0IHdp
+dGhvdXQgZGlldGluZyBvciBleGVyY2lzZSE8YnI+DQpXZSBtYW51ZmFjdHVyZSBhbmQgc2hpcCBk
+aXJlY3RseSB0byB5b3VyIGRvb3IuIFdlIGd1YXJhbnRlZSB0aGUgaGlnaGVzdCBxdWFsaXR5IA0K
+YW5kIGxvd2VzdCBwcmljZS48YnI+DQpUYWtlIGFkdmFudGFnZSBvZiBvdXIgTElNSVRFRCB0aW1l
+IHNwZWNpYWwgb2ZmZXIgcGxlYXNlIHZpc2l0IG91ciB3ZWIgc2l0ZSA8YSBocmVmPWh0dHA6Ly93
+d3cuYnJhdmUtZG9nLmNvbS9oZ2gvPmNsaWNrIA0KaGVyZTwvYT48L3A+DQo8cD48YSBocmVmPWh0
+dHA6Ly93d3cuYnJhdmUtZG9nLmNvbS9oZ2gvcm0uaHRtbD5SZW1vdmUgbWFpbDwvYT48L3A+DQo8
+L2JvZHk+DQo8L2h0bWw+
+
+--6F68929E9C4211D7A2D200A04B061B7B
+Content-Type: text/plain
+Content-Disposition: inline
+
+______________________________________________________________________
+This messsage was sent using the trial version of the 
+1st Class Mail Server software.  You can try it for free
+at http://www.1cis.com/download/1cismail.asp
+
+Is this unsolicited email?  Instructions for reporting unsolicited
+email can be found at at http://www.1cis.com/articles/spam.asp
+
+--6F68929E9C4211D7A2D200A04B061B7B--

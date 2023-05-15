@@ -1,0 +1,96 @@
+From barbee@oliveoil.com Tue Jul 30 12:30:54 2013
+Return-Path: <barbee@oliveoil.com>
+Received: from smtp.darkfog.org ([10.20.10.20])
+	 by imap.darkfog.org (Cyrus v2.3.14) with LMTPA;
+	 Tue, 30 Jul 2013 16:30:54 +0000
+X-Sieve: CMU Sieve 2.3
+Received: from rcdn-iport-5.oliveoil.com (rcdn-iport-5.oliveoil.com [173.37.86.76])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(No client certificate requested)
+	by smtp.darkfog.org (Postfix) with ESMTPS id 0F6B0142052
+	for <barbee@darkfog.org>; Tue, 30 Jul 2013 16:30:40 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+  d=oliveoil.com; i=@oliveoil.com; l=1570; q=dns/txt; s=iport;
+  t=1375200626; x=1376410226;
+  h=from:to:subject:date:message-id:mime-version;
+  bh=k8a500BMuEsvQ8/Q1PLf1RnfxcNgNYiM+dkx3zXn6Lw=;
+  b=RgHgJavxl2VL/RFVLY+YdaVwaWH4BXgF8Bg4+mDRAx/cLK2tCDZKZaKu
+   BqHPLLkSUeN7nfIRLDLkE+wsZPvavX3/XjoXqWE8epqLfmFfRGlXFs9ud
+   CiXgcd2xbQKf0VBGaFWMhehR8hmeQkwoGN+M0Cw19A0BES60DoyxZWkcE
+   0=;
+X-Files: =?iso-2022-jp?b?GyRCcS07UhsoQi50eHQgOiA3?=
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ai0FAK7k91GtJV2Z/2dsb2JhbABbgkJEgQWDELsDgR0WdIImAQQZCAFpAQYFAQIcBRoDBDAaBAkEGwaIAos9jEWOewGRYYY3iRaDGjZxA5ASmRmDFIIq
+X-IronPort-AV: E=Sophos;i="4.89,778,1367971200"; 
+   d="txt'?scan'208,217";a="241353543"
+Received: from rcdn-core-2.oliveoil.com ([173.37.93.153])
+  by rcdn-iport-5.oliveoil.com with ESMTP; 30 Jul 2013 16:10:11 +0000
+Received: from xhc-rcd-x09.oliveoil.com (xhc-rcd-x09.oliveoil.com [173.37.183.83])
+	by rcdn-core-2.oliveoil.com (8.14.5/8.14.5) with ESMTP id r6UGA9km010925
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=FAIL)
+	for <barbee@darkfog.org>; Tue, 30 Jul 2013 16:10:09 GMT
+Received: from xmb-aln-x14.oliveoil.com ([169.254.8.68]) by xhc-rcd-x09.oliveoil.com
+ ([173.37.183.83]) with mapi id 14.02.0318.004; Tue, 30 Jul 2013 11:10:09
+ -0500
+From: "John Barbee (barbee)" <barbee@oliveoil.com>
+To: "barbee@darkfog.org" <barbee@darkfog.org>
+Subject: =?iso-2022-jp?B?GyRCcS07UhsoQg==?=
+Thread-Topic: =?iso-2022-jp?B?GyRCcS07UhsoQg==?=
+Thread-Index: AQHOjT9DtiragOUnMUCLu4F5goqf1Q==
+Date: Tue, 30 Jul 2013 16:10:08 +0000
+Message-ID: <49D9ABAA8ACCE9438F0C33BF1529340D20CBD9@xmb-aln-x14.oliveoil.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+user-agent: Microsoft-MacOutlook/14.3.6.130613
+x-originating-ip: [10.98.105.149]
+Content-Type: multipart/mixed;
+	boundary="_004_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_"
+MIME-Version: 1.0
+Content-Length: 1528
+Lines: 42
+
+--_004_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_
+Content-Type: multipart/alternative;
+	boundary="_000_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_"
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_
+Content-Type: text/plain; charset="iso-2022-jp"
+Content-Transfer-Encoding: quoted-printable
+
+=1B$Bq-;R=1B(B
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_
+Content-Type: text/html; charset="iso-2022-jp"
+Content-ID: <BF0C77437CE8DF42AAC6AE9942502183@emea.oliveoil.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-2022-=
+jp">
+</head>
+<body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-lin=
+e-break: after-white-space; color: rgb(0, 0, 0); font-size: 14px; font-fami=
+ly: Calibri, sans-serif; ">
+<div>=1B$Bq-;R=1B(B</div>
+</body>
+</html>
+
+--_000_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_--
+
+--_004_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_
+Content-Type: text/plain; name="=?iso-2022-jp?B?GyRCcS07UhsoQi50eHQ=?="
+Content-Description: =?iso-2022-jp?B?GyRCcS07UhsoQi50eHQ=?=
+Content-Disposition: attachment;
+	filename="=?iso-2022-jp?B?GyRCcS07UhsoQi50eHQ=?="; size=7;
+	creation-date="Tue, 30 Jul 2013 16:10:08 GMT";
+	modification-date="Tue, 30 Jul 2013 16:10:08 GMT"
+Content-ID: <AC67DEC9433F9A4EA8F493BED98B875E@emea.oliveoil.com>
+Content-Transfer-Encoding: base64
+
+6aSD5a2QCg==
+
+--_004_49D9ABAA8ACCE9438F0C33BF1529340D20CBD9xmbalnx14oliveoilcom_--
+

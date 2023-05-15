@@ -1,0 +1,44 @@
+From owner-linux-kernel-outgoing@vger.rutgers.edu Tue Sep 07 05:48:30 1999
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+Delivered-To: bguenter-linux-kernel@qcc.sk.ca
+Received: (qmail 27647 invoked from network); 7 Sep 1999 05:48:28 -0000
+Received: from linus.vsource.com (198.169.201.2)
+  by hal.qcc.sk.ca with SMTP; 7 Sep 1999 05:48:28 -0000
+Received: (qmail 27731 invoked from network); 7 Sep 1999 05:48:26 -0000
+Received: from vger.rutgers.edu (128.6.190.2)
+  by linus.vsource.com with SMTP; 7 Sep 1999 05:48:26 -0000
+Received: by vger.rutgers.edu via listexpand id <S155147AbPIGFrr>;
+	Tue, 7 Sep 1999 01:47:47 -0400
+Received: by vger.rutgers.edu id <S154974AbPIGFrl>;
+	Tue, 7 Sep 1999 01:47:41 -0400
+Received: from [202.104.32.210] ([202.104.32.210]:35227 "EHLO gpta_host1")
+	by vger.rutgers.edu with ESMTP id <S155280AbPIGFqt>;
+	Tue, 7 Sep 1999 01:46:49 -0400
+Received: from mail pickup service by gpta_host1 with Microsoft SMTPSVC;
+	 Tue, 7 Sep 1999 13:34:51 +0800
+From:   <ecinfo@21cn.com>
+To:     <linux-kernel@vger.rutgers.edu>
+Subject: =?ISO-8859-1?Q?=BB=B6=D3=AD=B9=E2=C1=D9=CD=F8=C9=CF=D3=CA?=
+Date:   Tue, 7 Sep 1999 13:34:50 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Message-ID: <026b75134050799GPTA_HOST1@gpta_host1>
+Sender: owner-linux-kernel@vger.rutgers.edu
+Precedence: bulk
+X-Loop: majordomo@vger.rutgers.edu
+Return-Path: <owner-linux-kernel-outgoing@vger.rutgers.edu>
+X-Orcpt: rfc822;linux-kernel-outgoing-dig
+Status: RO
+Content-Length: 317
+Lines: 11
+
+你好！这里是中国资讯网网站推广中心
+欢迎你光临网上邮
+http://www.stamps.net.cn
+http;//www.webstamp.com.cn
+这里提供最新最快的国内外集邮资讯。
+
+
+-
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.rutgers.edu
+Please read the FAQ at http://www.tux.org/lkml/

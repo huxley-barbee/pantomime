@@ -1,0 +1,119 @@
+Return-Path: <DHFMPLG@msn.com>
+Received: (fqmail 15952 invoked from network); 29 Jun 2004 23:15:23 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by pt01.futurequest.net ([69.5.6.170])
+  with FQDP via TCP; 29 Jun 2004 23:15:23 -0000
+Received: (qmail 22910 invoked from network); 29 Jun 2004 23:14:11 -0000
+Received: from 192.168.1.33 ([81.213.98.239])
+  by mx03.futurequest.net ([69.5.6.174])
+  with SMTP via TCP; 29 Jun 2004 23:14:11 -0000
+Received: from uopr63lmy.9f666mya.tv ([65.54.167.5)] by mc9-s37.hotmail.com with Microsoft SMTPSVC (5.0.2195.6824);
+         Wed, 30 Jun 2004 02:09:55 +0200
+From: "Joanne" <y1r9fin8@8i7gc87.info>
+To: <webmaster@ezmlm.org>
+Subject: 50 Milyon TL'ye Tam Donanýmlý Reklamsýz Web Sayfasý Kuruyoruz.Phpnuke Baþarýya Doymuyor.Wed, 30 Jun 2004 02:09:55 +0200
+Date: Wed, 30 Jun 2004 02:09:55 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+        charset="Windows-1252"
+Content-Transfer-Encoding: 7Bit
+MIME-Version: 1.0
+X-mailer: Internet Mail Service (5.5.2650.21)
+Return-Path: y1r9fin8@8i7gc87.info
+Message-ID: <MC9-na1wQ72elW83PVL@mc9-s37.hotmail.com>
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content=text/html; charset=windows-1254>
+<title>Web sayfasýnda mükemmel kampanya</title>
+</head>
+
+<body>
+
+<div align=center>
+<table border=1 cellpadding=0 cellspacing=0 style=border-collapse: collapse bordercolor=#111111 width=69% id=AutoNumber2>
+<tr>
+<td width=96% valign=top><b><font face=Arial color=#ffcc00 size=5>- </font></b>
+<font face=Arial color=#ffcc00 size=5><b>Web sayfasinda mükemmel 
+kampanya -&nbsp;</b></font></td>
+<td width=16%>
+<font size=2 face=Arial>
+<img border=0 src=http://www.phpnuke.org/themes/Portal-Pro/images/88button.jpg width=88 height=31></font></td>
+</tr>
+</table>
+<p align=center><b><span style=BACKGROUND-COLOR: #ffffff>
+<font face=Arial color=#ff0000 size=4>Herkese Sadece</font><font face=Arial color=#00ff00 size=4>
+</font><font face=Arial color=#009933 size=4>50 milyon liraya</font><font face=Arial color=#ff0000 size=4> 
+Dünyada Sahip Olabileceginiz <br>
+En 
+Profesyonel Ve Kullanimi Kolay Php-nuke Sitesi kuruyoruz. </font>
+<font face=Arial color=#ff0000 size=2><br>
+</font></span></b><font face=Arial color=#ff0000 size=2><u><br>
+</u>Php- nuke ile yapabileceginiz seylerden bazilari:</font></p>
+<p align=left><b><span style=BACKGROUND-COLOR: #ffffff>
+<font face=Arial color=#0099cc size=2>1- Forum sayfaniza her ziyaretçi 
+yazi birakabilir ve ziyaretçileriniz kendi aralarindada(özel)yazisabilirler<br>
+2- Isteyen her ziyaretçi ayni mynette olduðu gibi kendisine hesap 
+açabilir.(kullanici hesabi)<br>
+3- Reklam alarak baner yayinlayabilirsiniz ve kaç sitenin kaç baneri 
+gösterilecek ayarlayabilirsiniz.<br>
+4- Download merkezi kurabilirsiniz inndir.com gibi<br>
+5- Verilerinizi yedekleyip daha sonra gerektiginde tekrar yükleyebilirsiniz.<br>
+6- Tüm üyelerinize ayni anda toplu mesaj atabilirsiniz.<br>
+7- Sayfaya aninda degisiklik yaparak(programsiz)istediðiniz gibi 
+güncelleyebilirsiniz.<br>
+</font><font face=Arial color=#660066 size=2>Tabii tüm yetenekleri 
+bunula sinirli degil.</font><font face=Arial color=#0099cc size=2><br>
+</font><font face=Arial color=#000080 size=2><u>Tüm Bunlari</u> mouse 
+kullanmasini bilen herkez yapabilir.</font></span></b></p>
+<p align=center><b><font face=Arial color=#ff0000 size=4>Php nuke</font><font face=Arial color=#0000ff size=4> </font>
+<font face=Arial color=#FF0000 size=4>Profesyonel Web Site</font><font face=Arial color=#0000ff size=4> 
++ </font><font face=Arial color=#ff0000 size=4>Hosting</font><font face=Arial color=#0000ff size=4> 
++ </font><font face=Arial color=#ff0000 size=4>1 Pop3 Email</font><font face=Arial color=#0000ff size=4> 
++ </font><font face=Arial color=#ff0000 size=4>Belirli Arama Motorlarina 
+sitenizi kayit </font><font face=Arial color=#0000ff size=4><br>
+</font>
+<font face=Arial color=#009933 size=4>Hepsi 50 Milyon.!<br>
+</font></b><span style=background-color: #FFFF00><font face=Arial size=2>
+Not</font><font face=Arial size=2 color=#FF0000>: Hotmail Kullan&#305;c&#305;lar&#305; 
+Lütfen Formu Kullanmay&#305;n Alttaki Email ile ileti&#351;im Kurun </font></span></p>
+<form action=http://www.finaldergisi.com/order.php method=post>
+<table border=0 cellpadding=0 cellspacing=0 style=border-collapse: collapse bordercolor=#111111 width=34% id=AutoNumber1 height=95>
+<tr>
+<td width=50% height=18 align=left><b>
+<font face=Arial size=2 color=#660066>Ad Soyad</font></b></td>
+<td width=50% height=18><input type=text name=ad_soyad size=20></td>
+</tr>
+<tr>
+<td width=50% height=19 align=left><b>
+<font face=Arial size=2 color=#660066>Email</font></b></td>
+<td width=50% height=19><input type=text name=email size=20></td>
+</tr>
+<tr>
+<td width=50% height=36 align=left><b>
+<font face=Arial size=2 color=#660066>
+Yazmak <br>
+istedikleriniz</font></b></td>
+<td width=50% height=36><textarea rows=2 name=yazi cols=20></textarea></td>
+</tr>
+<tr>
+<td width=50% height=19>&nbsp;</td>
+<td width=50% height=19>
+<p align=right>
+<input type=submit value=Gönder name=B1></td>
+</tr>
+</table></form>
+</center>
+</div>
+<p align=center><font face=Arial>&nbsp;Bize
+<a href=mailto:ahmet@linxland.com?subject=phpnuke>Mail</a> Atabilirsiniz</font><br>
+<font size=2 face=Arial>Örnek için : <a href=http://www.kaynanadili.com>
+www.kaynanadili.com</a> sitesini ziyaret etmenizi tavsiye ederiz.<br>
+</font><b><font face=Arial size=1 color=#0099FF><br>
+Redhat Linux &amp; 
+Apache Server Güvencesiyle</font></b></p>
+
+</body>
+
+</html>

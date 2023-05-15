@@ -1,0 +1,291 @@
+Return-Path: <1gcinfo@gcemail.net>
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 30704 invoked from network); 30 Oct 2001 23:16:49 -0000
+Received: from unknown (HELO gcemail.net) (64.208.240.97)
+  by agamemnon.bfsmedia.com with SMTP; 30 Oct 2001 23:16:49 -0000
+Received: from localhost [64.208.240.184] by gcemail.net with ESMTP
+  (SMTPD32-6.06) id A52D619B003C; Tue, 30 Oct 2001 18:18:05 -0500
+X-Sender: 1gcinfo@gcemail.net
+From: 1GCinfo <1gcinfo@gcemail.net>
+To: "1gc" <1gcinfo@gcemail.net>
+Date: Tue, 30 Oct 2001 18:24:48 -0500
+Subject: 1Global City Services
+Reply-To: 1gcinfo@1globalcity.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001__701605895_66288.23"
+Message-Id: <20011030181862.SM01892@localhost>
+Content-Length: 12473
+
+This is a Multipart MIME message.
+
+------=_NextPart_000_001__701605895_66288.23
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+
+------=_NextPart_000_001__701605895_66288.23
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quotedGMprintable
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Web%20Hosting_files/filelist.xml">
+<title>Web Hosting - Prices start at $24</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>lorrie macdonald</o:Author>
+  <o:LastAuthor>Bob Hardester</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>11</o:TotalTime>
+  <o:Created>2001-10-30T22:34:00Z</o:Created>
+  <o:LastSaved>2001-10-30T22:55:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>231</o:Words>
+  <o:Characters>1321</o:Characters>
+  <o:Lines>11</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1622</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin-top:.05pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	tab-stops:56.7pt 113.4pt 170.1pt 3.15in 283.5pt 340.2pt 396.85pt 6.3in 510.25pt 567.0pt 623.7pt 9.45in 737.05pt 793.75pt;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:14.0pt;
+	font-family:Arial;
+	mso-font-kerning:14.0pt;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:.05pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:56.7pt 113.4pt 170.1pt 3.15in 283.5pt 340.2pt 396.85pt 6.3in 510.25pt 567.0pt 623.7pt 9.45in 737.05pt 793.75pt;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-font-kerning:14.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<h1 style='text-align:justify'><span style='font-size:11.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></h1>
+
+<h1 style='text-align:justify'><span style='font-size:11.0pt'>Web Hosting<span
+style="mso-spacerun: yes">  </span>- </span><span style='font-size:11.0pt;
+font-weight:normal;font-style:normal'>Prices start at $24.95/month<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='margin-top:.05pt;text-align:justify;tab-stops:56.7pt 113.4pt 170.1pt 3.15in 283.5pt 340.2pt 396.85pt 6.3in 510.25pt 567.0pt 623.7pt 9.45in 737.05pt 793.75pt'><span
+style='font-size:11.0pt;font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoBodyText style='text-align:justify'>1GC Web Host provides the
+solutions our customers need to create a strong online presence. They can
+choose from an array of hosting plans. Whether they are seeking a simple,
+economical package for an individual or small business, or require a complex
+and diverse plan offering options such as database access and e-commerce
+capabilities, IGC has it all.</p>
+
+<p class=MsoNormal style='margin-top:.05pt;text-align:justify;tab-stops:56.7pt 113.4pt 170.1pt 3.15in 283.5pt 340.2pt 396.85pt 6.3in 510.25pt 567.0pt 623.7pt 9.45in 737.05pt 793.75pt'><span
+style='font-size:11.0pt;font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:11.0pt;
+font-family:Arial'>FEATURES include:<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Shared, virtual hosting on Windows 2000 servers <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Up to 1GB of web hosting storage <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Up to 55GB per month of data transfer <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Domain Name Registration <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Up to 65 POP3/SMTP e-mail accounts, each with 7MB of storage <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>FREE Email forwarding<span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>FREE SSL <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>No transfer charges for moving your existing account to 1 Global City<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>E-Commerce/shopping cart ready <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Daily site backup <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>24x7 server monitoring <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>24x7 support and management via FTP <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Free tools: hit counter, mailto script <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Up to 100 free IBC cards with your content on them.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:0in;text-align:justify'><b><span style='font-size:11.0pt;
+font-family:Arial'>Available Add Ons:</span></b><span style='font-size:11.0pt;
+font-family:Arial'> <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Additional hosting disk space: 19.95/200MB/month<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Additional transfer: $2/GB/month<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Additional e-mail accounts: $1/5MB/month<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Additional e-mail disk space, per e-mail account: $1/5MB/month<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:1.0pt;margin-right:0in;margin-bottom:1.0pt;
+margin-left:.25in;text-align:justify'><span style='font-size:11.0pt;font-family:
+Arial'>Shopping cart, up to 100 items: $39.95/month<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
+style='font-size:11.0pt;font-family:Arial'>WebTrends enhanced statistics:
+$9.95/month<span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
+style='font-size:11.0pt;font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<h1 style='text-align:justify;mso-pagination:widow-orphan;tab-stops:.5in 56.7pt 113.4pt 170.1pt 3.15in 283.5pt 340.2pt 396.85pt 6.3in 510.25pt 567.0pt 623.7pt 9.45in 737.05pt 793.75pt;
+text-autospace:ideograph-other'><span style='font-size:11.0pt'>Contact Us Today
+For All Your Design and Technology Needs!!<o:p></o:p></span></h1>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'>web: <span style='mso-tab-count:1'>   </span></span><span
+style='font-size:10.0pt;font-family:"Courier New"'><a
+href="http://www.1gcwebhost.com/">http://www.1gcwebhost.com</a> </span><span
+style='font-size:11.0pt;font-family:Arial'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'>ph: <span style='mso-tab-count:1'>      </span>800-255-8908<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'>email:<span style='mso-tab-count:1'>  </span><a
+href="mailto:1gcinfo@1globalcity.com">1gcinfo@1globalcity.com</a> <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'>To be removed from our database and receive no additional
+advertisements<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'>please reply with the word remove in the subject line.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:Arial'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_001__701605895_66288.23--
+
