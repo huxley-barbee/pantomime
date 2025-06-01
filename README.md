@@ -88,12 +88,3 @@ Developed by [Huxley Barbee](https://www.linkedin.com/in/jhbarbee)
 
 This project is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/MPL/2.0/)
 
----
-
-## 🏷 Recommended GitHub Topics
-
-To help GitHub categorize your project and improve discoverability, go to the repo settings and add these topics:
-
-```
-java, mime, email, javamail, email-parser, mime-message, email-utils, mozilla-public-license
-```
