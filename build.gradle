@@ -2,11 +2,10 @@ apply plugin: 'java'
 apply plugin: 'groovy'
 
 dependencies{
-    compile fileTree(dir: 'lib', include: '*')
-
+    implementation fileTree(dir: 'lib', include: '*')
 }
 
-jar.baseName = 'pantomime-0.9984'
+jar.archiveBaseName = 'pantomime-1.0'
 
 jar {
     from "LICENSE"

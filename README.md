@@ -55,8 +55,7 @@ Pantomime runs on any Java Virtual Machine (JVM). It is tested on Java 8 through
 
 ## 📈 Project Status
 
-- 📌 Current Version: `0.99-beta`
-- 🛠 Still under development
+- 📌 Current Version: `1.0`
 - 🧪 Seeking testers and contributors
 
 ---

@@ -26,11 +26,11 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.List;
 
-import javax.activation.CommandMap;
-import javax.activation.DataHandler;
-import javax.activation.DataSource;
-import javax.activation.MailcapCommandMap;
-import javax.activation.UnsupportedDataTypeException;
+import jakarta.activation.CommandMap;
+import jakarta.activation.DataHandler;
+import jakarta.activation.DataSource;
+import jakarta.activation.MailcapCommandMap;
+import jakarta.activation.UnsupportedDataTypeException;
 
 import javax.mail.MessagingException;
 import javax.mail.Multipart;

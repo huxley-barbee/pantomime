@@ -28,7 +28,7 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Stack;
 
-import javax.activation.DataHandler;
+import jakarta.activation.DataHandler;
 import javax.mail.MessagingException;
 import javax.mail.Session;
 import javax.mail.internet.MimeBodyPart;
