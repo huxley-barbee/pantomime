@@ -80,6 +80,7 @@ We welcome bugfixes, enhancements, documentation help, and test coverage.
 ## 👤 Author
 
 Developed by [Huxley Barbee](https://www.linkedin.com/in/jhbarbee)
+Developed by [Corey Holland](https://www.linkedin.com/in/cholland1989/)
 
 ---
 
