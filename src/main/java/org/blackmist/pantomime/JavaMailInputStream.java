@@ -27,7 +27,7 @@ import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
-import javax.mail.Part;
+import jakarta.mail.Part;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -40,7 +40,7 @@ class JavaMailInputStream extends PipedInputStream {
     private ExecutorService service = null;
     private boolean started = false;
     private Future<String> result;
-    private javax.mail.Part part;
+    private jakarta.mail.Part part;
 
     private synchronized void checkInitialized() {
 
@@ -152,7 +152,7 @@ class JavaMailInputStream extends PipedInputStream {
 
     }
 
-    public JavaMailInputStream ( javax.mail.Part part ) throws IOException {
+    public JavaMailInputStream ( jakarta.mail.Part part ) throws IOException {
 
         this.part = part;
 

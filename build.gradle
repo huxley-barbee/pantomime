@@ -1,30 +1,46 @@
-apply plugin: 'java'
-apply plugin: 'groovy'
-
-dependencies{
-    implementation fileTree(dir: 'lib', include: '*')
+plugins {
+    id 'groovy'
+    id 'java'
 }
 
-jar.archiveBaseName = 'pantomime-1.0'
+group = 'org.blackmist'
+version = '1.0.0'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation fileTree(dir: 'lib', include: '*')
+    implementation 'org.apache.groovy:groovy-all:4.0.18'
+    implementation 'jakarta.mail:jakarta.mail-api:2.1.3'
+    implementation 'org.eclipse.angus:angus-mail:2.0.3'
+    testImplementation 'junit:junit:4.13.2'
+}
 
 jar {
-    from "LICENSE"
+    archiveBaseName.set('pantomime-1.0')
+    from 'LICENSE'
 }
 
-task loadMySQL(type:Exec) {
-
+task loadMySQL(type: Exec) {
     executable = 'mysql'
     args = ['-u', 'root', 'pantomime']
-    standardInput = file("data/pantomime.sql").newInputStream()
-
+    standardInput = file('data/pantomime.sql').newInputStream()
 }
 
 test {
-    systemProperties = [
-        'log4j.debug': ''
-    ]
-
+    systemProperties['log4j.debug'] = ''
     classpath += files('etc')
 }
 
 test.dependsOn loadMySQL
+

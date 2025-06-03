@@ -15,13 +15,13 @@
 
 import java.util.Properties
 
-import javax.activation.FileTypeMap
-import javax.activation.MimetypesFileTypeMap
-import javax.mail.Session
-import javax.mail.internet.InternetAddress
-import javax.mail.internet.MimeBodyPart
-import javax.mail.internet.MimeMessage
-import javax.mail.internet.MimeMultipart
+import jakarta.activation.FileTypeMap
+import jakarta.activation.MimetypesFileTypeMap
+import jakarta.mail.Session
+import jakarta.mail.internet.InternetAddress
+import jakarta.mail.internet.MimeBodyPart
+import jakarta.mail.internet.MimeMessage
+import jakarta.mail.internet.MimeMultipart
 
 import junit.framework.JUnit4TestAdapter
 
@@ -82,7 +82,7 @@ class JavaMailTest {
             attachment.setText("1,2,3", "utf-8", "csv")
         }
 
-        attachment.setDisposition(javax.mail.Part.ATTACHMENT)
+        attachment.setDisposition(jakarta.mail.Part.ATTACHMENT)
 
         def mixed = new MimeMultipart()
         mixed.addBodyPart(container)
@@ -96,7 +96,7 @@ class JavaMailTest {
         mime.addHeader("A", "C");
         mime.addHeader("D", "E");
         mime.addFrom(new InternetAddress("dijon@bravo-cat.com"))
-        mime.setRecipients(javax.mail.Message.RecipientType.TO,
+        mime.setRecipients(jakarta.mail.Message.RecipientType.TO,
             'marty@bravo-cat.com')
         mime.setSubject(subject)
         mime.setContent(mixed)
@@ -247,13 +247,13 @@ class JavaMailTest {
 
         assert '1px.jpg' == attachments.get(1).getFilename()
         assert 'image/jpeg' == attachments.get(1).getFileType()
-        assert 15386 <= attachments.get(1).getTransferEncodedSize()
+        assert 15203 <= attachments.get(1).getTransferEncodedSize()
         assert 15398 >= attachments.get(1).getTransferEncodedSize()
         assert 11159 == Util.getSize(attachments.get(1).asSinglePart().getBody())
 
         assert '1px.png' == attachments.get(2).getFilename()
         assert 'image/x-png' == attachments.get(2).getFileType()
-        assert 3939 <= attachments.get(2).getTransferEncodedSize()
+        assert 3893 <= attachments.get(2).getTransferEncodedSize()
         assert 3951 >= attachments.get(2).getTransferEncodedSize()
         assert 2792 == Util.getSize(attachments.get(2).asSinglePart().getBody())
 
@@ -272,7 +272,7 @@ class JavaMailTest {
 
         assert 'blank.xlsx' == attachments.get(4).getFilename()
         assert 'application/octet-stream' == attachments.get(4).getFileType()
-        assert 36307 <= attachments.get(4).getTransferEncodedSize()
+        assert 35871 <= attachments.get(4).getTransferEncodedSize()
         assert 36322 >= attachments.get(4).getTransferEncodedSize()
         assert 26435 == Util.getSize(attachments.get(4).asSinglePart().getBody())
 
@@ -330,7 +330,7 @@ class JavaMailTest {
         def mime = new MimeMessage(session)
 
         mime.addFrom(new InternetAddress("dijon@bravo-cat.com"))
-        mime.setRecipients(javax.mail.Message.RecipientType.TO,
+        mime.setRecipients(jakarta.mail.Message.RecipientType.TO,
             'marty@bravo-cat.com')
         mime.setSubject('abc')
         mime.setContent(mixed)

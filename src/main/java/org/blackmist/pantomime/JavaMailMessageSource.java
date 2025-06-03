@@ -32,13 +32,13 @@ import jakarta.activation.DataSource;
 import jakarta.activation.MailcapCommandMap;
 import jakarta.activation.UnsupportedDataTypeException;
 
-import javax.mail.MessagingException;
-import javax.mail.Multipart;
-import javax.mail.Session;
+import jakarta.mail.MessagingException;
+import jakarta.mail.Multipart;
+import jakarta.mail.Session;
 
-import javax.mail.internet.MimeBodyPart;
-import javax.mail.internet.MimeMessage;
-import javax.mail.internet.MimeMultipart;
+import jakarta.mail.internet.MimeBodyPart;
+import jakarta.mail.internet.MimeMessage;
+import jakarta.mail.internet.MimeMultipart;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -89,7 +89,7 @@ public class JavaMailMessageSource implements MessageSource {
      * MimePath.
      */
     public String getPreamble(MimePath path) throws PantomimeException {
-        javax.mail.Part part = getJavaPart(path);
+        jakarta.mail.Part part = getJavaPart(path);
 
         if ( part instanceof Multipart ) {
 
@@ -112,8 +112,8 @@ public class JavaMailMessageSource implements MessageSource {
     }
 
 
-    private InputStream getJavaMailInputStream(javax.mail.Part part)
-        throws IOException, javax.mail.MessagingException {
+    private InputStream getJavaMailInputStream(jakarta.mail.Part part)
+        throws IOException, jakarta.mail.MessagingException {
 
         InputStream stream = new JavaMailInputStream(part);
 
@@ -170,7 +170,7 @@ public class JavaMailMessageSource implements MessageSource {
 
         try {
 
-            javax.mail.Part part = getJavaPart(path);
+            jakarta.mail.Part part = getJavaPart(path);
             stream = getJavaMailInputStream(part);
             StreamMonitor.opened(this, stream);
 
@@ -206,7 +206,7 @@ public class JavaMailMessageSource implements MessageSource {
      * MIME part addressed by teh given MimePath.
      */
     public int getSubPartCount(MimePath path) throws PantomimeException {
-        javax.mail.Part part = getJavaPart(path);
+        jakarta.mail.Part part = getJavaPart(path);
 
         try {
 
@@ -231,7 +231,7 @@ public class JavaMailMessageSource implements MessageSource {
 
     }
 
-    private javax.mail.Part getJavaPart(MimePath path) throws PantomimeException {
+    private jakarta.mail.Part getJavaPart(MimePath path) throws PantomimeException {
         if ( path == null ) {
             return null;
         }
@@ -244,8 +244,8 @@ public class JavaMailMessageSource implements MessageSource {
 
     }
 
-    private javax.mail.Part getJavaPart(MimePath path, int pathIndex,
-        javax.mail.Part part) throws PantomimeException {
+    private jakarta.mail.Part getJavaPart(MimePath path, int pathIndex,
+        jakarta.mail.Part part) throws PantomimeException {
 
         try {
 
@@ -255,7 +255,7 @@ public class JavaMailMessageSource implements MessageSource {
 
                 Multipart multipart = (Multipart)content;
                 int index = path.get(pathIndex);
-                javax.mail.Part subPart;
+                jakarta.mail.Part subPart;
 
                 if ( index >= multipart.getCount() ) {
                     log.warn("Fewer parts than expected. " + path + " Index: " +
@@ -287,7 +287,7 @@ public class JavaMailMessageSource implements MessageSource {
 
     }
 
-    private List<Line> readHeaders(javax.mail.Part part) {
+    private List<Line> readHeaders(jakarta.mail.Part part) {
 
         Enumeration e = null;
 
@@ -308,7 +308,7 @@ public class JavaMailMessageSource implements MessageSource {
 
         for ( ; e.hasMoreElements() ; ) {
 
-            javax.mail.Header header = (javax.mail.Header)e.nextElement();
+            jakarta.mail.Header header = (jakarta.mail.Header)e.nextElement();
 
             StringBuilder builder = new StringBuilder();
 
@@ -425,7 +425,7 @@ public class JavaMailMessageSource implements MessageSource {
         return markers;
     }
 
-    private Part javaToPanto(javax.mail.Part javaPart, MimePath path)
+    private Part javaToPanto(jakarta.mail.Part javaPart, MimePath path)
         throws PantomimeException {
 
         Part part;
@@ -447,7 +447,7 @@ public class JavaMailMessageSource implements MessageSource {
             }
 
 
-            if ( disposition.equalsIgnoreCase(javax.mail.Part.ATTACHMENT) ) {
+            if ( disposition.equalsIgnoreCase(jakarta.mail.Part.ATTACHMENT) ) {
                 part = new Attachment();
             } else {
                 part = new Part();
@@ -484,7 +484,7 @@ public class JavaMailMessageSource implements MessageSource {
         throws PantomimeException {
 
         OutputStream out = null;
-        javax.mail.Part part = getJavaPart(path);
+        jakarta.mail.Part part = getJavaPart(path);
         final Size size = new Size();
 
         try {

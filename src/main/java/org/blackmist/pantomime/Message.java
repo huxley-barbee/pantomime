@@ -29,11 +29,11 @@ import java.util.List;
 import java.util.Stack;
 
 import jakarta.activation.DataHandler;
-import javax.mail.MessagingException;
-import javax.mail.Session;
-import javax.mail.internet.MimeBodyPart;
-import javax.mail.internet.MimeMessage;
-import javax.mail.internet.MimeMultipart;
+import jakarta.mail.MessagingException;
+import jakarta.mail.Session;
+import jakarta.mail.internet.MimeBodyPart;
+import jakarta.mail.internet.MimeMessage;
+import jakarta.mail.internet.MimeMultipart;
 
 import org.blackmist.pantomime.content.InputStreamSource;
 
@@ -472,12 +472,12 @@ public class Message extends Part {
     }
 
     /**
-     * Converts the message into a {@link javax.mail.internet.MimeMessage}
+     * Converts the message into a {@link jakarta.mail.internet.MimeMessage}
      * suitable for feeding to JavaMail for SMTP delivery.
      *
      * @param session The SMTP session.
      *
-     * @return {@link javax.mail.internet.MimeMessage}
+     * @return {@link jakarta.mail.internet.MimeMessage}
      */
     public MimeMessage toJavaMail(Session session) throws PantomimeException {
 

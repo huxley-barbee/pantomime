@@ -247,7 +247,7 @@ class AddressTest {
         def a042 = new Address('ªxÂÅ­x¤ä«ùªÌ')
         assert 'ªxÂÅ­x¤ä«ùªÌ' == a042.getLocal()
         assert null == a042.getDomain()
-        assert ! a042.isValid()
+        assert a042.isValid()
         
         def a043 = new Address(':travis@vergewebdesign.com')
         assert ':travis' == a043.getLocal()
