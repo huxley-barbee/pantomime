@@ -35,16 +35,20 @@ jar {
     from 'LICENSE'
 }
 
-task loadMySQL(type: Exec) {
-    executable = 'mysql'
-    args = ['-u', 'root', 'pantomime']
-    standardInput = file('data/pantomime.sql').newInputStream()
-}
-
 test {
     systemProperties['log4j.debug'] = ''
     classpath += files('etc')
+
+    doFirst {
+        if (!System.getenv("CI")) {  // Only load DB locally
+            println "Loading MySQL schema locally..."
+            exec {
+                commandLine 'mysql', '-h', '127.0.0.1', '-u', 'root', 'pantomime'
+                standardInput = file('data/pantomime.sql').newInputStream()
+                ignoreExitValue = false
+            }
+        } else {
+            println "Running in CI — assuming MySQL schema is already loaded."
+        }
+    }
 }
-
-test.dependsOn loadMySQL
-

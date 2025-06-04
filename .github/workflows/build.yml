@@ -8,21 +8,47 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: root
+          MYSQL_DATABASE: pantomime
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping --silent"
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=5
 
-    - name: Set up Java
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up JDK
       uses: actions/setup-java@v4
       with:
         distribution: 'temurin'
-        java-version: '17'
+        java-version: 21
 
-    - name: Build with Gradle
-      run: gradle jar
+    - name: Wait for MySQL to be ready
+      run: |
+        for i in {1..30}; do
+          if mysqladmin ping -h 127.0.0.1 -uroot -proot --silent; then
+            echo "MySQL is ready"
+            break
+          fi
+          echo "Waiting for MySQL..."
+          sleep 2
+        done
 
-    - name: Run tests
+    - name: Grant access and initialize DB
+      run: |
+        sudo apt-get install -y mysql-client
+        mysql -h 127.0.0.1 -P 3306 -u root -proot pantomime < data/pantomime.sql
+
+    - name: Build and test
       run: gradle test
+
