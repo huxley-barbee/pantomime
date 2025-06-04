@@ -45,6 +45,8 @@ System.out.println("Subject: " + message.getSubject());
 System.out.println("Body: " + message.getBodyText());
 ```
 
+There are many concrete examples of how to use Pantomime in the manual directory.
+
 ---
 
 ## 🧪 Platform Support

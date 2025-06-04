@@ -19,10 +19,14 @@ repositories {
 }
 
 dependencies {
-    implementation fileTree(dir: 'lib', include: '*')
+    implementation 'org.apache.logging.log4j:log4j-core:2.24.3'
+    implementation 'org.slf4j:slf4j-api:2.0.17'
+    implementation 'org.slf4j:slf4j-reload4j:2.0.17'
     implementation 'org.apache.groovy:groovy-all:4.0.18'
+    implementation 'jakarta.activation:jakarta.activation-api:2.0.1'
     implementation 'jakarta.mail:jakarta.mail-api:2.1.3'
     implementation 'org.eclipse.angus:angus-mail:2.0.3'
+    implementation 'com.mysql:mysql-connector-j:9.3.0'
     testImplementation 'junit:junit:4.13.2'
 }
 
