@@ -49,7 +49,9 @@ class BlobTest {
 
         Class.forName("com.mysql.jdbc.Driver");
 
-        def connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/pantomime","root","");
+        def dbPass = System.getenv("MYSQL_PASSWORD") ?: "root"
+
+        def connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/pantomime","root",dbPass);
 
         def statement = connection.prepareStatement('select data from mail where id = 3')
 
@@ -117,7 +119,9 @@ class BlobTest {
 
         Class.forName("com.mysql.jdbc.Driver");
 
-        def connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/pantomime","root","");
+        def dbPass = System.getenv("MYSQL_PASSWORD") ?: "root"
+
+        def connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/pantomime","root",dbPass);
 
         def statement = connection.prepareStatement('select data from mail where id = 4')
 
