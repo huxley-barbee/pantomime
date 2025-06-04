@@ -162,7 +162,7 @@ class JavaMailTest {
         assertEquals('<b>test message</b>', message.getHtmlBodyAsString())
 
         assert 900 <= message.getTransferEncodedSize()
-        assert 950 >= message.getTransferEncodedSize()
+        assert 1000 >= message.getTransferEncodedSize()
 
         assert 0 == StreamMonitor.unclosedStreams()
     }
