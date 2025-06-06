@@ -1,6 +1,7 @@
 plugins {
     id 'groovy'
     id 'java'
+    id 'maven-publish'
 }
 
 group = 'org.blackmist'
@@ -31,7 +32,7 @@ dependencies {
 }
 
 jar {
-    archiveBaseName.set('pantomime-1.0')
+    archiveBaseName.set('pantomime')
     from 'LICENSE'
 }
 
@@ -52,3 +53,42 @@ test {
         }
     }
 }
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+
+            groupId = 'com.github.huxley-barbee'
+            artifactId = 'pantomime'
+            version = '1.0'
+
+            pom {
+                name = 'Pantomime'
+                description = 'A robust, memory-efficient MIME library for Java'
+                url = 'https://github.com/huxley-barbee/pantomime'
+                licenses {
+                    license {
+                        name = 'Mozilla Public License 2.0'
+                        url = 'https://www.mozilla.org/MPL/2.0/'
+                    }
+                }
+                scm {
+                    url = 'https://github.com/huxley-barbee/pantomime'
+                }
+            }
+        }
+    }
+
+    repositories {
+        maven {
+            name = "GitHubPackages"
+            url = uri("https://maven.pkg.github.com/huxley-barbee/pantomime")
+            credentials {
+                username = project.findProperty("gpr.user") ?: System.getenv("GITHUB_ACTOR")
+                password = project.findProperty("gpr.key") ?: System.getenv("GITHUB_TOKEN")
+            }
+        }
+    }
+}
+
