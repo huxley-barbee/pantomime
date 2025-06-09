@@ -4,6 +4,7 @@
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://mozilla.org/MPL/2.0/)
 [![GitHub issues](https://img.shields.io/github/issues/huxley-barbee/pantomime)](https://github.com/huxley-barbee/pantomime/issues)
 [![Latest Release](https://img.shields.io/github/v/release/huxley-barbee/pantomime)](https://github.com/huxley-barbee/pantomime/releases)
+![Downloads](https://img.shields.io/github/downloads/huxley-barbee/pantomime/total)
 
 **Pantomime** is a modern, robust, and memory-efficient replacement for the MIME-manipulation features of [JavaMail](http://www.oracle.com/technetwork/java/javamail/index.html). It provides a cleaner API and better performance for working with email content and MIME structures in Java.
 
